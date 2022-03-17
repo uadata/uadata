@@ -1,5 +1,5 @@
 # ББМ
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ББМ](https://uadata.net/screen?457652&u=%2F%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ББМ](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 | Дата | Значення | Джерело |
 |---|---|---|
