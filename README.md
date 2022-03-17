@@ -1,9 +1,6 @@
 # [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
-Оновлено **2022-03-17 10:00:00**
+[![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022)](https://uadata.net/ukraine-russia-war-2022)
 
-![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022)
-
-# [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
 Оновлено **2022-03-17 10:00:00**
 
 - [ББМ](https://uadata.net/ukraine-russia-war-2022/bbm): 1435 [історія](/ukraine-russia-war-2022/bbm.md)
