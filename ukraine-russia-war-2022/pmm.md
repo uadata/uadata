@@ -1,4 +1,7 @@
 # Цистерни ПММ
+### API
+`curl `
+### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / Цистерни ПММ](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fpmm) ](https://uadata.net/ukraine-russia-war-2022/pmm)
 
 | Дата | Значення | Джерело |

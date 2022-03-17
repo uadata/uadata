@@ -1,4 +1,7 @@
 # РСЗВ
+### API
+`curl `
+### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / РСЗВ](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 | Дата | Значення | Джерело |
