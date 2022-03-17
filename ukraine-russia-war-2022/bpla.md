@@ -1,5 +1,6 @@
 # БПЛА
 ### API
+Щоб отримати ці дані по API:
 `curl https://uadata.net/ukraine-russia-war-2022/bpla.json`
 ### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / БПЛА](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
