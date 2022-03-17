@@ -1,6 +1,6 @@
 # Автомобільна техніка
 ### API
-`curl `
+`curl https://uadata.net/ukraine-russia-war-2022/auto`
 ### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / Автомобільна техніка](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
 
