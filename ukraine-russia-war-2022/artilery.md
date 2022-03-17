@@ -1,10 +1,8 @@
 # Артилерійські системи
-### API
-Щоб отримати ці дані по API:
-`curl https://uadata.net/ukraine-russia-war-2022/artilery.json`
-### Дані
+### Графік
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / Артилерійські системи](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
 
+### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-03-17](https://uadata.net/ukraine-russia-war-2022/artilery/2022-03-17+10%3A00%3A00) | 201 | [відкрити](https://www.mil.gov.ua/news/2022/03/17/vtrati-rosijskih-okupantiv-stanovlyat-ponad-190-litakiv-i-vertolotiv-znishheno-bilshe-440-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -24,3 +22,102 @@
 | [2022-03-03](https://uadata.net/ukraine-russia-war-2022/artilery/2022-03-03+10%3A00%3A00) | 90 | [відкрити](https://www.mil.gov.ua/news/2022/03/03/vtrati-rosijskogo-okupanta-za-sim-dib-zagarbniczkoi-vijni-rf-v-ukraini-skladayut-blizko-9000-osib-ponad-1500-odinicz-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu/) |
 | [2022-03-02](https://uadata.net/ukraine-russia-war-2022/artilery/2022-03-02+10%3A00%3A00) | 85 | [відкрити](https://www.mil.gov.ua/news/2022/03/02/vtrati-rosijskih-okupantiv-za-shist-dib-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini-%E2%80%93-generalnij-shtab-zsu/) |
 | [2022-03-01](https://uadata.net/ukraine-russia-war-2022/artilery/2022-03-01+10%3A00%3A00) | 77 | [відкрити](https://www.mil.gov.ua/news/2022/03/01/vtrati-rosijskogo-okupanta-skladayut-ponad-5700-osib-polonenih-%E2%80%93-200-velika-kilkist-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu/) |
+### API
+Щоб отримати ці дані по API:
+```
+curl https://uadata.net/ukraine-russia-war-2022/artilery.json
+```
+#### Приклад відповіді 
+```
+{
+    "title": "\u0410\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0439\u0441\u044c\u043a\u0456 \u0441\u0438\u0441\u0442\u0435\u043c\u0438",
+    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/artilery",
+    "data": [
+        {
+            "at": "2022-03-01 10:00:00",
+            "val": 77,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/01\/vtrati-rosijskogo-okupanta-skladayut-ponad-5700-osib-polonenih-%E2%80%93-200-velika-kilkist-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu\/"
+        },
+        {
+            "at": "2022-03-02 10:00:00",
+            "val": 85,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/02\/vtrati-rosijskih-okupantiv-za-shist-dib-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini-%E2%80%93-generalnij-shtab-zsu\/"
+        },
+        {
+            "at": "2022-03-03 10:00:00",
+            "val": 90,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/03\/vtrati-rosijskogo-okupanta-za-sim-dib-zagarbniczkoi-vijni-rf-v-ukraini-skladayut-blizko-9000-osib-ponad-1500-odinicz-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu\/"
+        },
+        {
+            "at": "2022-03-04 10:00:00",
+            "val": 105,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/04\/vtrati-protivnika-stanovlyat-ponad-9-000-osib-znishheno-veliku-kilkist-ovt\/"
+        },
+        {
+            "at": "2022-03-05 10:00:00",
+            "val": 105,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/05\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-10-000-osib-znishheno-majzhe-2000-odinicz-vorozhogo-ovt\/"
+        },
+        {
+            "at": "2022-03-06 10:00:00",
+            "val": 109,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/06\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-11-000-osib-znishheno-bilshe-2000-odinicz-vorozhogo-ozbroennya-i-vijskovoi-tehniki-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-07 10:00:00",
+            "val": 117,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/07\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-11-000-osib-znishheno-bilshe-110-litakiv-ta-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-08 10:00:00",
+            "val": 120,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/08\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-bilshe-300-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-09 10:00:00",
+            "val": 120,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/09\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-130-vorozhih-litakiv-ta-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-10 10:00:00",
+            "val": 123,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/10\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-majzhe-2400-odinicz-vorozhogo-ozbroennya-i-vijskovoi-tehniki-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-11 10:00:00",
+            "val": 125,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/11\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-140-litakiv-ta-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-12 10:00:00",
+            "val": 135,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/12\/bojovi-vtrati-protivnika-na-17-j-den-rosijskogo-voennogo-vtorgnennya-v-ukrainu\/"
+        },
+        {
+            "at": "2022-03-13 10:00:00",
+            "val": 140,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/13\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-160-litakiv-i-vertolotiv-ta-ponad-2600-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-14 10:00:00",
+            "val": 150,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/14\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-majzhe-400-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-15 10:00:00",
+            "val": 150,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/15\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-ponad-13-500-osib-ta-bilshe-2800-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-16 10:00:00",
+            "val": 190,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/16\/za-tri-tizhni-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-majzhe-14-000-osib-ta-ponad-3200-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+            "at": "2022-03-17 10:00:00",
+            "val": 201,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/17\/vtrati-rosijskih-okupantiv-stanovlyat-ponad-190-litakiv-i-vertolotiv-znishheno-bilshe-440-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        }
+    ]
+}
+```
