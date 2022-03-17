@@ -1,6 +1,6 @@
 # Танки
 ### API
-`curl https://uadata.net/ukraine-russia-war-2022/tanks`
+`curl https://uadata.net/ukraine-russia-war-2022/tanks.json`
 ### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / Танки](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
 

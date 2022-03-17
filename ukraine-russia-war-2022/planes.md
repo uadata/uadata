@@ -1,6 +1,6 @@
 # Літаки
 ### API
-`curl https://uadata.net/ukraine-russia-war-2022/planes`
+`curl https://uadata.net/ukraine-russia-war-2022/planes.json`
 ### Дані
 [ ![Графік: Втрати армії РФ у війні проти України 2022 року / Літаки](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fplanes) ](https://uadata.net/ukraine-russia-war-2022/planes)
 
