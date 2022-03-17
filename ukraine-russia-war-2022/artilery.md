@@ -1,5 +1,5 @@
 # Артилерійські системи
-[Дивитись графік](https://uadata.net/ukraine-russia-war-2022/artilery)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Артилерійські системи](https://uadata.net/screen?457652&u=%2F%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
 
 | Дата | Значення | Джерело |
 |---|---|---|
