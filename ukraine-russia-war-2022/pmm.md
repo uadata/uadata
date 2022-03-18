@@ -1,10 +1,11 @@
 # Цистерни ПММ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Цистерни ПММ](https://uadata.net/screen?457652&u=%2Fukraine-russia-war-2022%2Fpmm) ](https://uadata.net/ukraine-russia-war-2022/pmm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Цистерни ПММ](https://uadata.net/screen?457668&u=%2Fukraine-russia-war-2022%2Fpmm) ](https://uadata.net/ukraine-russia-war-2022/pmm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-18](https://uadata.net/ukraine-russia-war-2022/pmm/2022-03-18+10%3A00%3A00) | 60 | [відкрити](https://www.mil.gov.ua/news/2022/03/18/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-200-osib-ta-ponad-200-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-17](https://uadata.net/ukraine-russia-war-2022/pmm/2022-03-17+10%3A00%3A00) | 60 | [відкрити](https://www.mil.gov.ua/news/2022/03/17/vtrati-rosijskih-okupantiv-stanovlyat-ponad-190-litakiv-i-vertolotiv-znishheno-bilshe-440-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-16](https://uadata.net/ukraine-russia-war-2022/pmm/2022-03-16+10%3A00%3A00) | 60 | [відкрити](https://www.mil.gov.ua/news/2022/03/16/za-tri-tizhni-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-majzhe-14-000-osib-ta-ponad-3200-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-15](https://uadata.net/ukraine-russia-war-2022/pmm/2022-03-15+10%3A00%3A00) | 60 | [відкрити](https://www.mil.gov.ua/news/2022/03/15/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-ponad-13-500-osib-ta-bilshe-2800-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -36,11 +37,10 @@ curl https://uadata.net/ukraine-russia-war-2022/pmm.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/pmm",
     "data": [
         {
-            "at": "2022-02-27 10:00:00",
+            "at": "2022-03-18 10:00:00",
             "val": 60,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/02\/27\/sumarni-orientovni-vtrati-voroga-za-tri-poperedni-dobi-(24-26-lyutogo)-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini\/"
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/18\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-200-osib-ta-ponad-200-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-02-28 10:00:00",
-        ...
+            "a...
 ```
