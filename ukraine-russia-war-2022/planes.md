@@ -25,7 +25,6 @@
 | [2022-03-01](https://uadata.net/ukraine-russia-war-2022/planes/2022-03-01+10%3A00%3A00) | 29 | [відкрити](https://www.mil.gov.ua/news/2022/03/01/vtrati-rosijskogo-okupanta-skladayut-ponad-5700-osib-polonenih-%E2%80%93-200-velika-kilkist-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu/) |
 | [2022-02-28](https://uadata.net/ukraine-russia-war-2022/planes/2022-02-28+10%3A00%3A00) | 29 | [відкрити](https://www.mil.gov.ua/news/2022/02/28/sumarni-orientovni-vtrati-voroga-za-chotiri-dobi-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini/) |
 | [2022-02-27](https://uadata.net/ukraine-russia-war-2022/planes/2022-02-27+10%3A00%3A00) | 27 | [відкрити](https://www.mil.gov.ua/news/2022/02/27/sumarni-orientovni-vtrati-voroga-za-tri-poperedni-dobi-(24-26-lyutogo)-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini/) |
-| [2022-02-25](https://uadata.net/ukraine-russia-war-2022/planes/2022-02-25+14%3A49%3A54) | 7 | [відкрити](https://www.mil.gov.ua/news/2022/02/25/zbrojni-sili-ukraini-zavdali-suttevih-vtrat-rosijskim-okupantam/) |
 ### API
 Щоб отримати ці дані по API:
 ```

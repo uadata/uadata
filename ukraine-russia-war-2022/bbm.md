@@ -25,7 +25,6 @@
 | [2022-03-01](https://uadata.net/ukraine-russia-war-2022/bbm/2022-03-01+09%3A00%3A00) | 846 | [відкрити](https://www.mil.gov.ua/news/2022/03/01/vtrati-rosijskogo-okupanta-skladayut-ponad-5700-osib-polonenih-%E2%80%93-200-velika-kilkist-ozbroennya-ta-vijskovoi-tehniki-%E2%80%93-genshtab-zsu/) |
 | [2022-02-28](https://uadata.net/ukraine-russia-war-2022/bbm/2022-02-28+10%3A00%3A00) | 816 | [відкрити](https://www.mil.gov.ua/news/2022/02/28/sumarni-orientovni-vtrati-voroga-za-chotiri-dobi-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini/) |
 | [2022-02-27](https://uadata.net/ukraine-russia-war-2022/bbm/2022-02-27+10%3A00%3A00) | 706 | [відкрити](https://www.mil.gov.ua/news/2022/02/27/sumarni-orientovni-vtrati-voroga-za-tri-poperedni-dobi-(24-26-lyutogo)-zagarbniczkoi-vijni-rosijskoi-federaczii-v-ukraini/) |
-| [2022-02-25](https://uadata.net/ukraine-russia-war-2022/bbm/2022-02-25+16%3A16%3A00) | 516 | [відкрити](https://www.mil.gov.ua/news/2022/02/25/rosijski-okupanti-zaznayut-velikih-vtrat-informacziya-stanom-na-1500/) |
 | [2022-02-25](https://uadata.net/ukraine-russia-war-2022/bbm/2022-02-25+14%3A50%3A30) | 130 | [відкрити](https://www.mil.gov.ua/news/2022/02/25/zbrojni-sili-ukraini-zavdali-suttevih-vtrat-rosijskim-okupantam/) |
 ### API
 Щоб отримати ці дані по API:
