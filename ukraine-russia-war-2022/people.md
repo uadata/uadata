@@ -1,16 +1,18 @@
 # Особовий склад
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Особовий склад](https://uadata.net/screen?457668&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Особовий склад](https://uadata.net/screen?457691&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-19](https://uadata.net/ukraine-russia-war-2022/people/2022-03-19+10%3A00%3A00) | 14400 | [відкрити](https://www.mil.gov.ua/news/2022/03/19/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-3500-odinicz-ovt-znishheno-210-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-18](https://uadata.net/ukraine-russia-war-2022/people/2022-03-18+10%3A00%3A00) | 14200 | [відкрити](https://www.mil.gov.ua/news/2022/03/18/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-200-osib-ta-ponad-200-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-17](https://uadata.net/ukraine-russia-war-2022/people/2022-03-17+10%3A00%3A00) | 14000 | [відкрити](https://www.mil.gov.ua/news/2022/03/17/vtrati-rosijskih-okupantiv-stanovlyat-ponad-190-litakiv-i-vertolotiv-znishheno-bilshe-440-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-16](https://uadata.net/ukraine-russia-war-2022/people/2022-03-16+10%3A00%3A00) | 13800 | [відкрити](https://www.mil.gov.ua/news/2022/03/16/za-tri-tizhni-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-majzhe-14-000-osib-ta-ponad-3200-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-15](https://uadata.net/ukraine-russia-war-2022/people/2022-03-15+10%3A00%3A00) | 13500 | [відкрити](https://www.mil.gov.ua/news/2022/03/15/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-ponad-13-500-osib-ta-bilshe-2800-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-14](https://uadata.net/ukraine-russia-war-2022/people/2022-03-14+10%3A00%3A00) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/14/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-majzhe-400-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-13](https://uadata.net/ukraine-russia-war-2022/people/2022-03-13+10%3A00%3A00) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/13/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-160-litakiv-i-vertolotiv-ta-ponad-2600-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
+| [2022-03-12](https://uadata.net/ukraine-russia-war-2022/people/2022-03-12+21%3A50%3A15) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/12/bojovi-vtrati-protivnika-na-17-j-den-rosijskogo-voennogo-vtorgnennya-v-ukrainu/) |
 | [2022-03-11](https://uadata.net/ukraine-russia-war-2022/people/2022-03-11+10%3A00%3A00) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/11/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-140-litakiv-ta-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-10](https://uadata.net/ukraine-russia-war-2022/people/2022-03-10+10%3A00%3A00) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/10/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-majzhe-2400-odinicz-vorozhogo-ozbroennya-i-vijskovoi-tehniki-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-09](https://uadata.net/ukraine-russia-war-2022/people/2022-03-09+10%3A00%3A00) | 12000 | [відкрити](https://www.mil.gov.ua/news/2022/03/09/vtrati-rosijskih-okupantiv-stanovlyat-ponad-12-000-osib-znishheno-130-vorozhih-litakiv-ta-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -36,9 +38,10 @@ curl https://uadata.net/ukraine-russia-war-2022/people.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/people",
     "data": [
         {
-            "at": "2022-03-18 10:00:00",
-            "val": 14200,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/18\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-200-osib-ta-ponad-200-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-03-19 10:00:00",
+            "val": 14400,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/19\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-3500-odinicz-ovt-znishheno-210-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
-      ...
+        {
+            "at": ...
 ```
