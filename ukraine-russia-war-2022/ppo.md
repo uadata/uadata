@@ -1,10 +1,11 @@
 # ППО
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ППО](https://uadata.net/screen?457724&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ППО](https://uadata.net/screen?457738&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-21](https://uadata.net/ukraine-russia-war-2022/ppo/2022-03-21+10%3A00%3A00) | 45 | [відкрити](https://www.mil.gov.ua/news/2022/03/21/vtrati-rosijskih-okupantiv-stanovlyat-15-000-osib-znishheno-majzhe-500-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-20](https://uadata.net/ukraine-russia-war-2022/ppo/2022-03-20+10%3A00%3A00) | 44 | [відкрити](https://www.mil.gov.ua/news/2022/03/20/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-700-osib-ta-ponad-3500-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-19](https://uadata.net/ukraine-russia-war-2022/ppo/2022-03-19+10%3A00%3A00) | 44 | [відкрити](https://www.mil.gov.ua/news/2022/03/19/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-3500-odinicz-ovt-znishheno-210-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-18](https://uadata.net/ukraine-russia-war-2022/ppo/2022-03-18+10%3A00%3A00) | 43 | [відкрити](https://www.mil.gov.ua/news/2022/03/18/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-200-osib-ta-ponad-200-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -38,12 +39,12 @@ curl https://uadata.net/ukraine-russia-war-2022/ppo.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/ppo",
     "data": [
         {
-            "at": "2022-03-20 10:00:00",
-            "val": 44,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/20\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-700-osib-ta-ponad-3500-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-03-21 10:00:00",
+            "val": 45,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/21\/vtrati-rosijskih-okupantiv-stanovlyat-15-000-osib-znishheno-majzhe-500-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-03-19 10:00:00",
+            "at": "2022-03-20 10:00:00",
             "val": 44,
-       ...
+            "ref": "https:\/\/w...
 ```
