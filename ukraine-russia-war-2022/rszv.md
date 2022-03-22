@@ -1,10 +1,11 @@
 # РСЗВ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / РСЗВ](https://uadata.net/screen?457738&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / РСЗВ](https://uadata.net/screen?457762&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-22](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-22+10%3A00%3A00) | 80 | [відкрити](https://www.mil.gov.ua/news/2022/03/22/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-15-300-osib-ta-ponad-220-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-21](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-21+10%3A00%3A00) | 80 | [відкрити](https://www.mil.gov.ua/news/2022/03/21/vtrati-rosijskih-okupantiv-stanovlyat-15-000-osib-znishheno-majzhe-500-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-20](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-20+10%3A00%3A00) | 74 | [відкрити](https://www.mil.gov.ua/news/2022/03/20/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-14-700-osib-ta-ponad-3500-odinicz-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-19](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-19+10%3A00%3A00) | 72 | [відкрити](https://www.mil.gov.ua/news/2022/03/19/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-3500-odinicz-ovt-znishheno-210-litakiv-i-vertolotiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -38,12 +39,11 @@ curl https://uadata.net/ukraine-russia-war-2022/rszv.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/rszv",
     "data": [
         {
-            "at": "2022-03-21 10:00:00",
+            "at": "2022-03-22 10:00:00",
             "val": 80,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/21\/vtrati-rosijskih-okupantiv-stanovlyat-15-000-osib-znishheno-majzhe-500-vorozhih-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/22\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-15-300-osib-ta-ponad-220-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-03-20 10:00:00",
-            "val": 74,
-            "ref": "http...
+            "at": "2022-03-21 10:00:00",
+            "...
 ```
