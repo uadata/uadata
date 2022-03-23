@@ -1,6 +1,6 @@
 # Кораблі
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кораблі](https://uadata.net/screen?457786&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Кораблі](https://uadata.net/screen?457788&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
 
 ### Історія значень
 | Дата | Значення | Джерело |
