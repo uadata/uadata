@@ -1,10 +1,11 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?457810&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?457834&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-25](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-25+09%3A13%3A43) | 135 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-135-ditei) |
 | [2022-03-24](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-24+11%3A41%3A10) | 128 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginulo-128-ditei) |
 | [2022-03-23](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-23+11%3A48%3A41) | 121 | [відкрити](https://www.gp.gov.ua/ua/posts/yuvenalni-prokurori-121-ditina-zaginula-za-cas-zbroinoyi-agresiyi-rosiyi) |
 | [2022-03-22](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-22+11%3A47%3A56) | 117 | [відкрити](https://www.gp.gov.ua/ua/posts/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginulo-117-ditei) |
@@ -30,10 +31,10 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-m
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/how-many-children-died",
     "data": [
         {
-            "at": "2022-03-24 11:41:10",
-            "val": 128,
-            "ref": "https:\/\/gp.gov.ua\/ua\/posts\/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginulo-128-ditei"
+            "at": "2022-03-25 09:13:43",
+            "val": 135,
+            "ref": "https:\/\/gp.gov.ua\/ua\/posts\/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-135-ditei"
         },
         {
-         ...
+   ...
 ```
