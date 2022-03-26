@@ -22,3 +22,5 @@
 
 - [Скільки дітей загинуло](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died): 135 [історія](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md)
 - [Зареєстровані злочини РФ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes): 2702 [історія](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md)
+
+@kotleni
