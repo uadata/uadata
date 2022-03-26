@@ -1,10 +1,11 @@
 # ББМ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ББМ](https://uadata.net/screen?457834&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / ББМ](https://uadata.net/screen?457858&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-26](https://uadata.net/ukraine-russia-war-2022/bbm/2022-03-26+10%3A00%3A00) | 1640 | [відкрити](https://www.mil.gov.ua/news/2022/03/26/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-16-400-osib-ta-ponad-240-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-25](https://uadata.net/ukraine-russia-war-2022/bbm/2022-03-25+10%3A00%3A00) | 1625 | [відкрити](https://www.mil.gov.ua/news/2022/03/25/vtrati-rosijskih-okupantiv-stanovlyat-priblizno-16-100-osib-znishheno-ponad-4000-odinicz-vorozhogo-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-24](https://uadata.net/ukraine-russia-war-2022/bbm/2022-03-24+10%3A00%3A00) | 1597 | [відкрити](https://www.mil.gov.ua/news/2022/03/24/za-misyacz-vijni-proti-ukraini-rosiya-vtratila-majzhe-16-000-osib-ponad-230-litakiv-i-gelikopteriv-ta-4-korabli-j-kateri-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-23](https://uadata.net/ukraine-russia-war-2022/bbm/2022-03-23+10%3A00%3A00) | 1578 | [відкрити](https://www.mil.gov.ua/news/2022/03/23/vtrati-rosijskih-okupantiv-stanovlyat-priblizno-15-600-osib-znishheno-ponad-3850-odinicz-vorozhogo-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -45,12 +46,11 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
     "data": [
         {
-            "at": "2022-03-25 10:00:00",
-            "val": 1625,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/25\/vtrati-rosijskih-okupantiv-stanovlyat-priblizno-16-100-osib-znishheno-ponad-4000-odinicz-vorozhogo-ovt-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-03-26 10:00:00",
+            "val": 1640,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/26\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-16-400-osib-ta-ponad-240-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-03-24 10:00:00",
-            "val": 1597,
-           ...
+            "at": "2022-03-25 10:00:00",
+            "val":...
 ```
