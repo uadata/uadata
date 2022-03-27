@@ -1,10 +1,11 @@
 # РСЗВ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / РСЗВ](https://uadata.net/screen?457858&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / РСЗВ](https://uadata.net/screen?457881&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-27](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-27+10%3A00%3A00) | 93 | [відкрити](https://www.mil.gov.ua/news/2022/03/27/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-600-tankiv-znishheno-ponad-1650-vorozhih-bojovih-bronovanih-mashin-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-26](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-26+10%3A00%3A00) | 91 | [відкрити](https://www.mil.gov.ua/news/2022/03/26/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-16-400-osib-ta-ponad-240-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-25](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-25+10%3A00%3A00) | 90 | [відкрити](https://www.mil.gov.ua/news/2022/03/25/vtrati-rosijskih-okupantiv-stanovlyat-priblizno-16-100-osib-znishheno-ponad-4000-odinicz-vorozhogo-ovt-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-24](https://uadata.net/ukraine-russia-war-2022/rszv/2022-03-24+10%3A00%3A00) | 82 | [відкрити](https://www.mil.gov.ua/news/2022/03/24/za-misyacz-vijni-proti-ukraini-rosiya-vtratila-majzhe-16-000-osib-ponad-230-litakiv-i-gelikopteriv-ta-4-korabli-j-kateri-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -43,11 +44,11 @@ curl https://uadata.net/ukraine-russia-war-2022/rszv.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/rszv",
     "data": [
         {
-            "at": "2022-03-26 10:00:00",
-            "val": 91,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/26\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-blizko-16-400-osib-ta-ponad-240-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-03-27 10:00:00",
+            "val": 93,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/03\/27\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-600-tankiv-znishheno-ponad-1650-vorozhih-bojovih-bronovanih-mashin-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-03-25 10:00:00",
-            "...
+            "at": "2022-03-26 10:00:00",
+            "val": 91,...
 ```
