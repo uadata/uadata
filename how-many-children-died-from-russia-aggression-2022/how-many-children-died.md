@@ -1,10 +1,11 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?457929&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?457953&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-03-30](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-30+09%3A36%3A51) | 145 | [відкрити](https://www.gp.gov.ua/storage/uploads/22e73485-b269-4f92-a2dc-3741ddbc4f55/warcrime-30032022ua.jpg) |
 | [2022-03-29](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-29+11%3A03%3A00) | 144 | [відкрити](https://www.gp.gov.ua/storage/uploads/011d2b3a-12d6-4ca8-b925-d732264e7f03/warcrime-29032022ua.jpg) |
 | [2022-03-28](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-28+10%3A00%3A52) | 143 | [відкрити](https://www.gp.gov.ua/ua/posts/yuvenalni-prokurori-143-ditini-zaginuli-cerez-zbroinu-agresiyi-rf-v-ukrayini) |
 | [2022-03-27](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-03-27+09%3A46%3A34) | 139 | [відкрити](https://www.gp.gov.ua/ua/posts/yuvenalni-prokurori-139-ditei-zaginuli-v-ukrayini-vnaslidok-zbroinoyi-agresiyi-rf) |
@@ -35,9 +36,9 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-m
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/how-many-children-died",
     "data": [
         {
-            "at": "2022-03-29 11:03:00",
-            "val": 144,
-            "ref": "https:\/\/www.gp.gov.ua\/storage\/uploads\/011d2b3a-12d6-4ca8-b925-d732264e7f03\/warcrime-29032022ua.jpg"
+            "at": "2022-03-30 09:36:51",
+            "val": 145,
+            "ref": "https:\/\/www.gp.gov.ua\/storage\/uploads\/22e73485-b269-4f92-a2dc-3741ddbc4f55\/warcrime-30032022ua.jpg"
         },
         {
             ...
