@@ -1,6 +1,6 @@
 # Автомобільна техніка
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Автомобільна техніка](https://uadata.net/screen?457977&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Автомобільна техніка](https://uadata.net/screen?458001&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
 
 ### Історія значень
 | Дата | Значення | Джерело |

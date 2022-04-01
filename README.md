@@ -1,5 +1,5 @@
 # [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
-[![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?457977&u=%2Fukraine-russia-war-2022)](https://uadata.net/ukraine-russia-war-2022)
+[![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?458001&u=%2Fukraine-russia-war-2022)](https://uadata.net/ukraine-russia-war-2022)
 
 Оновлено **2022-03-31 10:00:00**
 
@@ -16,9 +16,9 @@
 - [БПЛА](https://uadata.net/ukraine-russia-war-2022/bpla): 83 [історія](/ukraine-russia-war-2022/bpla.md)
 - [Особовий склад](https://uadata.net/ukraine-russia-war-2022/people): 17500 [історія](/ukraine-russia-war-2022/people.md)
 # [Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
-[![Графік: Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/screen?457977&u=%2Fhow-many-children-died-from-russia-aggression-2022)](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
+[![Графік: Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/screen?458001&u=%2Fhow-many-children-died-from-russia-aggression-2022)](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
 
-Оновлено **2022-03-31 10:00:00**
+Оновлено **2022-03-31 12:14:33**
 
-- [Скільки дітей загинуло](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died): 145 [історія](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md)
-- [Зареєстровані злочини РФ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes): 3411 [історія](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md)
+- [Скільки дітей загинуло](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died): 148 [історія](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md)
+- [Зареєстровані злочини РФ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes): 3568 [історія](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md)
