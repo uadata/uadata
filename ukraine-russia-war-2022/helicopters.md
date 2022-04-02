@@ -1,10 +1,11 @@
 # Гелікоптери
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Гелікоптери](https://uadata.net/screen?458005&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Гелікоптери](https://uadata.net/screen?458025&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-02](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-02+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/02/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-01](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-01+10%3A00%3A00) | 131 | [відкрити](https://www.mil.gov.ua/news/2022/04/01/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-143-litaki-ta-625-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-31](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-03-31+10%3A00%3A00) | 131 | [відкрити](https://www.mil.gov.ua/news/2022/03/31/za-pyat-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-17500-osib-znishheno-ponad-600-tankiv-ta-bilshe-1700-bojovih-bronovanih-mashin-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-30](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-03-30+10%3A00%3A00) | 131 | [відкрити](https://www.mil.gov.ua/news/2022/03/30/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-17-300-osib-ta-ponad-260-litakiv-i-gelikopteriv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -51,10 +52,10 @@ curl https://uadata.net/ukraine-russia-war-2022/helicopters.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/helicopters",
     "data": [
         {
-            "at": "2022-04-01 10:00:00",
-            "val": 131,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/01\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-143-litaki-ta-625-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-04-02 10:00:00",
+            "val": 134,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/02\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-            "at": "2022-03-31...
+            "at"...
 ```
