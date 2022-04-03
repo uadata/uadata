@@ -1,6 +1,6 @@
 # Особовий склад
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Особовий склад](https://uadata.net/screen?458025&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Особовий склад](https://uadata.net/screen?458049&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
 
 ### Історія значень
 | Дата | Значення | Джерело |
