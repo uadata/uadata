@@ -1,10 +1,11 @@
-# Літаки
+# Втрати літаків
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Літаки](https://uadata.net/screen?458049&u=%2Fukraine-russia-war-2022%2Fplanes) ](https://uadata.net/ukraine-russia-war-2022/planes)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати літаків](https://uadata.net/screen?458073&u=%2Fukraine-russia-war-2022%2Fplanes) ](https://uadata.net/ukraine-russia-war-2022/planes)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-03](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-03+10%3A00%3A00) | 143 | [відкрити](https://www.mil.gov.ua/news/2022/04/03/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-000-osib-ta-majzhe-4700-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-02](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-02+10%3A00%3A00) | 143 | [відкрити](https://www.mil.gov.ua/news/2022/04/02/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-01](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-01+10%3A00%3A00) | 143 | [відкрити](https://www.mil.gov.ua/news/2022/04/01/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-143-litaki-ta-625-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-31](https://uadata.net/ukraine-russia-war-2022/planes/2022-03-31+10%3A00%3A00) | 135 | [відкрити](https://www.mil.gov.ua/news/2022/03/31/za-pyat-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-17500-osib-znishheno-ponad-600-tankiv-ta-bilshe-1700-bojovih-bronovanih-mashin-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -47,16 +48,5 @@ curl https://uadata.net/ukraine-russia-war-2022/planes.json
 ```
 #### Приклад відповіді 
 ```
-{
-    "title": "\u041b\u0456\u0442\u0430\u043a\u0438",
-    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/planes",
-    "data": [
-        {
-            "at": "2022-04-02 10:00:00",
-            "val": 143,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/02\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
-        },
-        {
-            "at": "2022-04-01 10:00:00",
-          ...
+...
 ```

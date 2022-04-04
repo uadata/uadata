@@ -1,10 +1,11 @@
-# Гелікоптери
+# Втрати гелікоптерів
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Гелікоптери](https://uadata.net/screen?458049&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів](https://uadata.net/screen?458073&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-03](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-03+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/03/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-000-osib-ta-majzhe-4700-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-02](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-02+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/02/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-01](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-01+10%3A00%3A00) | 131 | [відкрити](https://www.mil.gov.ua/news/2022/04/01/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-143-litaki-ta-625-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-03-31](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-03-31+10%3A00%3A00) | 131 | [відкрити](https://www.mil.gov.ua/news/2022/03/31/za-pyat-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-17500-osib-znishheno-ponad-600-tankiv-ta-bilshe-1700-bojovih-bronovanih-mashin-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -47,15 +48,5 @@ curl https://uadata.net/ukraine-russia-war-2022/helicopters.json
 ```
 #### Приклад відповіді 
 ```
-{
-    "title": "\u0413\u0435\u043b\u0456\u043a\u043e\u043f\u0442\u0435\u0440\u0438",
-    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/helicopters",
-    "data": [
-        {
-            "at": "2022-04-02 10:00:00",
-            "val": 134,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/02\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
-        },
-        {
-            "at"...
+...
 ```
