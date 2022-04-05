@@ -1,10 +1,11 @@
 # Втрати особового складу
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу](https://uadata.net/screen?458073&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу](https://uadata.net/screen?458097&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-04](https://uadata.net/ukraine-russia-war-2022/people/2022-04-04+10%3A00%3A00) | 18300 | [відкрити](https://www.mil.gov.ua/news/2022/04/04/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-03](https://uadata.net/ukraine-russia-war-2022/people/2022-04-03+10%3A00%3A00) | 18000 | [відкрити](https://www.mil.gov.ua/news/2022/04/03/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-000-osib-ta-majzhe-4700-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-02](https://uadata.net/ukraine-russia-war-2022/people/2022-04-02+10%3A00%3A00) | 17800 | [відкрити](https://www.mil.gov.ua/news/2022/04/02/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-01](https://uadata.net/ukraine-russia-war-2022/people/2022-04-01+10%3A00%3A00) | 17700 | [відкрити](https://www.mil.gov.ua/news/2022/04/01/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-143-litaki-ta-625-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -48,5 +49,12 @@ curl https://uadata.net/ukraine-russia-war-2022/people.json
 ```
 #### Приклад відповіді 
 ```
-...
+{
+    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443",
+    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/people",
+    "data": [
+        {
+            "at": "2022-04-04 10:00:00",
+            "val": 18300,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/04\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij...
 ```
