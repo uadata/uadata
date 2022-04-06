@@ -1,10 +1,12 @@
 # Втрати гелікоптерів
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів](https://uadata.net/screen?458097&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів](https://uadata.net/screen?458121&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-06](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-06+10%3A00%3A00) | 135 | [відкрити](https://www.mil.gov.ua/news/2022/04/06/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
+| [2022-04-05](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-05+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/05/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-500-osib-ta-ponad-280-litakiv-i-vertolotiv-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-04](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-04+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/04/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-03](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-03+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/03/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-000-osib-ta-majzhe-4700-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-02](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-02+10%3A00%3A00) | 134 | [відкрити](https://www.mil.gov.ua/news/2022/04/02/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-280-litakiv-ta-gelikopteriv-znishheno-100-odinicz-vorozhih-rszv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -54,7 +56,7 @@ curl https://uadata.net/ukraine-russia-war-2022/helicopters.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/helicopters",
     "data": [
         {
-            "at": "2022-04-04 10:00:00",
-            "val": 134,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/04\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukrain...
+            "at": "2022-04-06 10:00:00",
+            "val": 135,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/06\/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-z...
 ```

@@ -1,10 +1,11 @@
 # Зареєстровані злочини РФ
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?458097&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?458121&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-05](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-05+14%3A44%3A28) | 4468 | [відкрити](https://www.gp.gov.ua/storage/uploads/c61eb4e6-5209-44b5-b1e0-86395db8132a/warcrime-05042022ua.jpg) |
 | [2022-04-04](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-04+15%3A38%3A53) | 4204 | [відкрити](https://www.gp.gov.ua/storage/uploads/9a897aef-ad20-47df-8487-eb4dd2ea1828/warcrime-03042022ua.jpg) |
 | [2022-04-03](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-03+12%3A24%3A21) | 4079 | [відкрити](https://www.gp.gov.ua/storage/uploads/9a897aef-ad20-47df-8487-eb4dd2ea1828/warcrime-03042022ua.jpg) |
 | [2022-04-02](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-02+11%3A15%3A44) | 3927 | [відкрити](https://www.gp.gov.ua/) |
@@ -31,9 +32,9 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/regis
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/registered-crimes",
     "data": [
         {
-            "at": "2022-04-04 15:38:53",
-            "val": 4204,
-            "ref": "https:\/\/www.gp.gov.ua\/storage\/uploads\/9a897aef-ad20-47df-8487-eb4dd2ea1828\/warcrime-03042022ua.jpg"
+            "at": "2022-04-05 14:44:28",
+            "val": 4468,
+            "ref": "https:\/\/www.gp.gov.ua\/storage\/uploads\/c61eb4e6-5209-44b5-b1e0-86395db8132a\/warcrime-05042022ua.jpg"
         },
         {
     ...
