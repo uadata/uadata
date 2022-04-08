@@ -1,10 +1,11 @@
 # Втрати бойових машин
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458145&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458169&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-07](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-07+10%3A00%3A00) | 1891 | [відкрити](https://www.facebook.com/GeneralStaff.ua/posts/289635890016163) |
 | [2022-04-06](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-06+10%3A00%3A00) | 1861 | [відкрити](https://www.mil.gov.ua/news/2022/04/06/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-05](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-05+10%3A00%3A00) | 1858 | [відкрити](https://www.mil.gov.ua/news/2022/04/05/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-500-osib-ta-ponad-280-litakiv-i-vertolotiv-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-04](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-04+10%3A00%3A00) | 1844 | [відкрити](https://www.mil.gov.ua/news/2022/04/04/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -57,7 +58,12 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
     "data": [
         {
+            "at": "2022-04-07 10:00:00",
+            "val": 1891,
+            "ref": "https:\/\/www.facebook.com\/GeneralStaff.ua\/posts\/289635890016163"
+        },
+        {
             "at": "2022-04-06 10:00:00",
             "val": 1861,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/06\/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-zs-ukra...
+            "ref": "https:\/\/www.mil.go...
 ```
