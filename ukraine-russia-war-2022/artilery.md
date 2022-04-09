@@ -1,10 +1,12 @@
 # Втрати артилерійських систем
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати артилерійських систем](https://uadata.net/screen?458169&u=%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати артилерійських систем](https://uadata.net/screen?458193&u=%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-09](https://uadata.net/ukraine-russia-war-2022/artilery/2022-04-09+10%3A00%3A00) | 335 | [відкрити](https://www.mil.gov.ua/news/2022/04/09/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
+| [2022-04-08](https://uadata.net/ukraine-russia-war-2022/artilery/2022-04-08+10%3A00%3A00) | 333 | [відкрити](https://www.facebook.com/100069092624537/posts/290383523274733/) |
 | [2022-04-07](https://uadata.net/ukraine-russia-war-2022/artilery/2022-04-07+10%3A00%3A00) | 332 | [відкрити](https://www.facebook.com/GeneralStaff.ua/posts/289635890016163) |
 | [2022-04-06](https://uadata.net/ukraine-russia-war-2022/artilery/2022-04-06+10%3A00%3A00) | 332 | [відкрити](https://www.mil.gov.ua/news/2022/04/06/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-05](https://uadata.net/ukraine-russia-war-2022/artilery/2022-04-05+10%3A00%3A00) | 332 | [відкрити](https://www.mil.gov.ua/news/2022/04/05/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-500-osib-ta-ponad-280-litakiv-i-vertolotiv-%E2%80%92-generalnij-shtab-zs-ukraini/) |
@@ -55,11 +57,7 @@ curl https://uadata.net/ukraine-russia-war-2022/artilery.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/artilery",
     "data": [
         {
-            "at": "2022-04-07 10:00:00",
-            "val": 332,
-            "ref": "https:\/\/www.facebook.com\/GeneralStaff.ua\/posts\/289635890016163"
-        },
-        {
-            "at": "2022-04-06 10:00:00",
-            "...
+            "at": "2022-04-09 10:00:00",
+            "val": 335,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/09\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalo...
 ```

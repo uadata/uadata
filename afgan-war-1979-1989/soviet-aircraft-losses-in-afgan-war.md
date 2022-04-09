@@ -1,6 +1,6 @@
 # Втрати авіації СРСР
 ### Графік
-[ ![Графік: Війна в Афганістані з 1979 по 1989 рік / Втрати авіації СРСР](https://uadata.net/screen?458169&u=%2Fafgan-war-1979-1989%2Fsoviet-aircraft-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
+[ ![Графік: Війна в Афганістані з 1979 по 1989 рік / Втрати авіації СРСР](https://uadata.net/screen?458193&u=%2Fafgan-war-1979-1989%2Fsoviet-aircraft-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |

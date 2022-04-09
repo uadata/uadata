@@ -1,6 +1,6 @@
 # Кількість виїздів ДСНС в зоні ООС
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість виїздів ДСНС в зоні ООС](https://uadata.net/screen?458169&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Foos-dsns-repartures) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/oos-dsns-repartures)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість виїздів ДСНС в зоні ООС](https://uadata.net/screen?458193&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Foos-dsns-repartures) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/oos-dsns-repartures)
 
 ### Історія значень
 | Дата | Значення | Джерело |
