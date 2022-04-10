@@ -1,10 +1,11 @@
 # Втрати кораблів
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати кораблів](https://uadata.net/screen?458193&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати кораблів](https://uadata.net/screen?458217&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-10](https://uadata.net/ukraine-russia-war-2022/ships/2022-04-10+10%3A00%3A00) | 7 | [відкрити](https://www.mil.gov.ua/news/2022/04/10/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-290-litakiv-ta-vertolotiv-znishheno-ponad-720-tankiv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-09](https://uadata.net/ukraine-russia-war-2022/ships/2022-04-09+10%3A00%3A00) | 7 | [відкрити](https://www.mil.gov.ua/news/2022/04/09/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-08](https://uadata.net/ukraine-russia-war-2022/ships/2022-04-08+10%3A00%3A00) | 7 | [відкрити](https://www.facebook.com/100069092624537/posts/290383523274733/) |
 | [2022-04-07](https://uadata.net/ukraine-russia-war-2022/ships/2022-04-07+10%3A00%3A00) | 7 | [відкрити](https://www.facebook.com/GeneralStaff.ua/posts/289635890016163) |
@@ -53,8 +54,10 @@ curl https://uadata.net/ukraine-russia-war-2022/ships.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/ships",
     "data": [
         {
-            "at": "2022-04-09 10:00:00",
+            "at": "2022-04-10 10:00:00",
             "val": 7,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/09\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini\/"
-        },...
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/10\/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-290-litakiv-ta-vertolotiv-znishheno-ponad-720-tankiv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+        },
+        {
+         ...
 ```
