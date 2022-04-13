@@ -1,10 +1,11 @@
 # Кількість евакуйованих людей
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458265&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458289&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-12](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-12+12%3A11%3A41) | 4354 | [відкрити](https://www.facebook.com/100005295963148/posts/1881106132075901/) |
 | [2022-04-11](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-11+11%3A52%3A33) | 2824 | [відкрити](https://www.facebook.com/100005295963148/posts/1880378182148696/?d=n) |
 | [2022-04-10](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-10+09%3A33%3A27) | 4532 | [відкрити](https://www.facebook.com/100005295963148/posts/1879788435541004/) |
 | [2022-04-09](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-09+12%3A34%3A45) | 6665 | [відкрити](https://www.facebook.com/100005295963148/posts/1879060438947137/?d=n) |
@@ -26,10 +27,10 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilki
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/kilkist-evakuyovanukh",
     "data": [
         {
-            "at": "2022-04-11 11:52:33",
-            "val": 2824,
-            "ref": "https:\/\/www.facebook.com\/100005295963148\/posts\/1880378182148696\/?d=n"
+            "at": "2022-04-12 12:11:41",
+            "val": 4354,
+            "ref": "https:\/\/www.facebook.com\/100005295963148\/posts\/1881106132075901\/"
         },
         {
-      ...
+          ...
 ```

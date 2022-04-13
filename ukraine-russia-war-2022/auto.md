@@ -1,10 +1,12 @@
 # Втрати автомобільної техніки
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати автомобільної техніки](https://uadata.net/screen?458265&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати автомобільної техніки](https://uadata.net/screen?458289&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-13](https://uadata.net/ukraine-russia-war-2022/auto/2022-04-13+10%3A00%3A00) | 1429 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
+| [2022-04-12](https://uadata.net/ukraine-russia-war-2022/auto/2022-04-12+12%3A19%3A43) | 1406 | [відкрити](https://www.mil.gov.ua/news/2022/04/12/vtrati-rosijskih-okupantiv-stanovlyat-157-litakiv-140-vertolotiv-znishheno-ponad-110-rszv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-11](https://uadata.net/ukraine-russia-war-2022/auto/2022-04-11+10%3A00%3A00) | 1387 | [відкрити](https://www.mil.gov.ua/news/2022/04/11/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-19500-osib-ta-ponad-1900-bojovih-bronovanih-mashin-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-10](https://uadata.net/ukraine-russia-war-2022/auto/2022-04-10+10%3A00%3A00) | 1384 | [відкрити](https://www.mil.gov.ua/news/2022/04/10/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-290-litakiv-ta-vertolotiv-znishheno-ponad-720-tankiv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-09](https://uadata.net/ukraine-russia-war-2022/auto/2022-04-09+10%3A00%3A00) | 1363 | [відкрити](https://www.mil.gov.ua/news/2022/04/09/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
@@ -60,7 +62,7 @@ curl https://uadata.net/ukraine-russia-war-2022/auto.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/auto",
     "data": [
         {
-            "at": "2022-04-11 10:00:00",
-            "val": 1387,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/11\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-19500-osib-ta-ponad-1900-bojov...
+            "at": "2022-04-13 10:00:00",
+            "val": 1429,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/13\/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znis...
 ```

@@ -1,10 +1,12 @@
 # Втрати танків
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків](https://uadata.net/screen?458265&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків](https://uadata.net/screen?458289&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-13](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-13+10%3A00%3A00) | 739 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
+| [2022-04-12](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-12+12%3A16%3A12) | 732 | [відкрити](https://www.mil.gov.ua/news/2022/04/12/vtrati-rosijskih-okupantiv-stanovlyat-157-litakiv-140-vertolotiv-znishheno-ponad-110-rszv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-11](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-11+10%3A00%3A00) | 725 | [відкрити](https://www.mil.gov.ua/news/2022/04/11/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-19500-osib-ta-ponad-1900-bojovih-bronovanih-mashin-%E2%80%92-generalnij-shtab-zs-ukraini/) |
 | [2022-04-10](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-10+10%3A00%3A00) | 722 | [відкрити](https://www.mil.gov.ua/news/2022/04/10/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-290-litakiv-ta-vertolotiv-znishheno-ponad-720-tankiv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-09](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-09+10%3A00%3A00) | 705 | [відкрити](https://www.mil.gov.ua/news/2022/04/09/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/) |
@@ -61,10 +63,10 @@ curl https://uadata.net/ukraine-russia-war-2022/tanks.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/tanks",
     "data": [
         {
-            "at": "2022-04-11 10:00:00",
-            "val": 725,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/11\/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-19500-osib-ta-ponad-1900-bojovih-bronovanih-mashin-%E2%80%92-generalnij-shtab-zs-ukraini\/"
+            "at": "2022-04-13 10:00:00",
+            "val": 739,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/13\/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini\/"
         },
         {
-  ...
+...
 ```
