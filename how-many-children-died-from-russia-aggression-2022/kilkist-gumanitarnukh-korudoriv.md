@@ -1,10 +1,11 @@
 # Кількість гуманітарних коридорів
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458289&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458313&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-13](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-13+12%3A40%3A35) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1882091048644076/) |
 | [2022-04-12](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-12+12%3A11%3A06) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1881401722046342/) |
 | [2022-04-11](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-11+11%3A52%3A08) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1880740338779147/?d=n) |
 | [2022-04-10](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-10+14%3A01%3A41) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1880065888846592/) |
@@ -27,8 +28,8 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilki
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/kilkist-gumanitarnukh-korudoriv",
     "data": [
         {
-            "at": "2022-04-12 12:11:06",
-            "val": 9,
-            "ref": "https:\/\/www.facebook.com\/100005295963148\/posts\/1881401722046342\/"
+            "at": "2022-04-13 12:40:35",
+            "val": 0,
+            "ref": "https:\/\/www.facebook.com\/100005295963148\/posts\/1882091048644076\/"
 ...
 ```

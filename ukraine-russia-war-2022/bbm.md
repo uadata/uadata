@@ -1,10 +1,11 @@
 # Втрати бойових машин
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458289&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458313&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-14](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-14+10%3A00%3A00) | 1968 | [відкрити](https://www.mil.gov.ua/news/2022/04/14/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-13](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-13+10%3A00%3A00) | 1964 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-12](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-12+12%3A17%3A06) | 1946 | [відкрити](https://www.mil.gov.ua/news/2022/04/12/vtrati-rosijskih-okupantiv-stanovlyat-157-litakiv-140-vertolotiv-znishheno-ponad-110-rszv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-11](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-11+10%3A00%3A00) | 1923 | [відкрити](https://www.mil.gov.ua/news/2022/04/11/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-19500-osib-ta-ponad-1900-bojovih-bronovanih-mashin-%E2%80%92-generalnij-shtab-zs-ukraini/) |
@@ -64,7 +65,7 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
     "data": [
         {
-            "at": "2022-04-13 10:00:00",
-            "val": 1964,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/13\/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab...
+            "at": "2022-04-14 10:00:00",
+            "val": 1968,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/14\/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-gene...
 ```
