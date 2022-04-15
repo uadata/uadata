@@ -1,12 +1,13 @@
 # Кількість хворих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458313&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458337&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-14](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-14+00%3A00%3A00) | 1575 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-13](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-13+00%3A00%3A00) | 1605 | [відкрити](https://covid19.who.int/data) |
-| [2022-04-12](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-12+00%3A00%3A00) | 1605 | [відкрити](https://covid19.who.int/data) |
+| [2022-04-12](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-12+00%3A00%3A00) | 2135 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-11](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-11+00%3A00%3A00) | 417 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-10](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-10+00%3A00%3A00) | 267 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-09](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-04-09+00%3A00%3A00) | 2217 | [відкрити](https://covid19.who.int/data) |
@@ -849,12 +850,12 @@ curl https://uadata.net/coronavirus-in-ukraine/total-cases.json
     "url": "https:\/\/uadata.net\/coronavirus-in-ukraine\/total-cases",
     "data": [
         {
-            "at": "2022-04-13 00:00:00",
-            "val": 1605,
+            "at": "2022-04-14 00:00:00",
+            "val": 1575,
             "ref": "https:\/\/covid19.who.int\/data"
         },
         {
-            "at": "2022-04-12 00:00:00",
+            "at": "2022-04-13 00:00:00",
             "val": 1605,
             "ref": "https:\/\/covid19.who.int\/data"
         },

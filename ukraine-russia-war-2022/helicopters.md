@@ -1,6 +1,6 @@
 # Втрати гелікоптерів
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів](https://uadata.net/screen?458313&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів](https://uadata.net/screen?458337&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
 
 ### Історія значень
 | Дата | Значення | Джерело |

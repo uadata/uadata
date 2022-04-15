@@ -1,6 +1,6 @@
 # Кількість з бустерною дозою
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість з бустерною дозою](https://uadata.net/screen?458313&u=%2Fcoronavirus-in-ukraine%2Fpersons-with-booster) ](https://uadata.net/coronavirus-in-ukraine/persons-with-booster)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість з бустерною дозою](https://uadata.net/screen?458337&u=%2Fcoronavirus-in-ukraine%2Fpersons-with-booster) ](https://uadata.net/coronavirus-in-ukraine/persons-with-booster)
 
 ### Історія значень
 | Дата | Значення | Джерело |
