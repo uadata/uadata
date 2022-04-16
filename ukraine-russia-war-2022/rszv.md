@@ -1,10 +1,11 @@
 # Втрати РСЗВ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ](https://uadata.net/screen?458337&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ](https://uadata.net/screen?458361&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-15](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-15+10%3A00%3A00) | 122 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
 | [2022-04-14](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-14+10%3A00%3A00) | 122 | [відкрити](https://www.mil.gov.ua/news/2022/04/14/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-13](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-13+10%3A00%3A00) | 115 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-12](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-12+12%3A17%3A55) | 111 | [відкрити](https://www.mil.gov.ua/news/2022/04/12/vtrati-rosijskih-okupantiv-stanovlyat-157-litakiv-140-vertolotiv-znishheno-ponad-110-rszv-voroga-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -62,10 +63,12 @@ curl https://uadata.net/ukraine-russia-war-2022/rszv.json
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/rszv",
     "data": [
         {
-            "at": "2022-04-14 10:00:00",
+            "at": "2022-04-15 10:00:00",
             "val": 122,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/14\/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini\/"
+            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/296662599312866"
         },
         {
- ...
+            "at": "2022-04-14 10:00:00",
+            "val": 122,
+            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/14\/za-pyatdesyat-dniv-povn...
 ```

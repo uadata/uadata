@@ -1,10 +1,11 @@
 # Кількість летальних випадків
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458337&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458361&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-15](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-15+00%3A00%3A00) | 26 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-14](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-14+00%3A00%3A00) | 26 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-13](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-13+00%3A00%3A00) | 27 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-12](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-12+00%3A00%3A00) | 28 | [відкрити](https://covid19.who.int/data) |
@@ -850,12 +851,12 @@ curl https://uadata.net/coronavirus-in-ukraine/totla-deaths.json
     "url": "https:\/\/uadata.net\/coronavirus-in-ukraine\/totla-deaths",
     "data": [
         {
-            "at": "2022-04-14 00:00:00",
+            "at": "2022-04-15 00:00:00",
             "val": 26,
             "ref": "https:\/\/covid19.who.int\/data"
         },
         {
-            "at": "2022-04-13 00:00:00",
-            "val": 27,
+            "at": "2022-04-14 00:00:00",
+            "val": 26,
             "ref": "http...
 ```
