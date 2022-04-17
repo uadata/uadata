@@ -1,10 +1,12 @@
 # Втрати бойових машин
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458361&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-17](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-17+10%3A00%3A00) | 2002 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
+| [2022-04-16](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-16+10%3A00%3A00) | 1982 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-15+10%3A00%3A00) | 1976 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
 | [2022-04-14](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-14+10%3A00%3A00) | 1968 | [відкрити](https://www.mil.gov.ua/news/2022/04/14/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-13](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-13+10%3A00%3A00) | 1964 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -64,14 +66,11 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0430\u0448\u0438\u043d",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
+    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0",
     "data": [
         {
-            "at": "2022-04-15 10:00:00",
-            "val": 1976,
-            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/296662599312866"
-        },
-        {
-            "at": "2022-04-14 10:00:00",
-            "val": 1968,
-            "ref": "https:\/\/www.mil.g...
+            "date": "2022-04-17",
+            "val": 2002,
+            "ref": "http...
 ```

@@ -1,10 +1,11 @@
 # Кількість евакуйованих людей
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458361&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458385&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-16+13%3A42%3A41) | 2864 | [відкрити](https://www.facebook.com/100005295963148/posts/1883742771812237/) |
 | [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-15+10%3A00%3A14) | 2557 | [відкрити](https://www.facebook.com/100005295963148/posts/1883110398542141/) |
 | [2022-04-13](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-13+12%3A38%3A36) | 2671 | [відкрити](https://www.facebook.com/100005295963148/posts/1881666135353234/) |
 | [2022-04-12](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-12+12%3A11%3A41) | 4354 | [відкрити](https://www.facebook.com/100005295963148/posts/1881106132075901/) |
@@ -27,12 +28,10 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilki
 {
     "title": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0435\u0432\u0430\u043a\u0443\u0439\u043e\u0432\u0430\u043d\u0438\u0445 \u043b\u044e\u0434\u0435\u0439",
     "url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022\/kilkist-evakuyovanukh",
+    "hub_api_url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022.json",
     "data": [
         {
-            "at": "2022-04-15 10:00:14",
-            "val": 2557,
-            "ref": "https:\/\/www.facebook.com\/100005295963148\/posts\/1883110398542141\/"
-        },
-        {
-          ...
+            "date": "2022-04-16",
+            "val": 2864,
+            "ref": "https:\/\/...
 ```

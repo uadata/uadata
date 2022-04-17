@@ -1,10 +1,12 @@
 # Втрати ППО
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати ППО](https://uadata.net/screen?458361&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати ППО](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-17](https://uadata.net/ukraine-russia-war-2022/ppo/2022-04-17+10%3A00%3A00) | 66 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
+| [2022-04-16](https://uadata.net/ukraine-russia-war-2022/ppo/2022-04-16+10%3A00%3A00) | 66 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/ppo/2022-04-15+10%3A00%3A00) | 66 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
 | [2022-04-14](https://uadata.net/ukraine-russia-war-2022/ppo/2022-04-14+10%3A00%3A00) | 64 | [відкрити](https://www.mil.gov.ua/news/2022/04/14/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-13](https://uadata.net/ukraine-russia-war-2022/ppo/2022-04-13+10%3A00%3A00) | 64 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -62,14 +64,11 @@ curl https://uadata.net/ukraine-russia-war-2022/ppo.json
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u041f\u041f\u041e",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/ppo",
+    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0",
     "data": [
         {
-            "at": "2022-04-15 10:00:00",
+            "date": "2022-04-17",
             "val": 66,
-            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/296662599312866"
-        },
-        {
-            "at": "2022-04-14 10:00:00",
-            "val": 64,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/14\/za-pyatdesyat-dniv-povnomasshtab...
+            "ref": "https:\...
 ```

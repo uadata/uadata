@@ -1,10 +1,12 @@
 # Втрати РСЗВ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ](https://uadata.net/screen?458361&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-17](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-17+10%3A00%3A00) | 127 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
+| [2022-04-16](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-16+10%3A00%3A00) | 125 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-15+10%3A00%3A00) | 122 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
 | [2022-04-14](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-14+10%3A00%3A00) | 122 | [відкрити](https://www.mil.gov.ua/news/2022/04/14/za-pyatdesyat-dniv-povnomasshtabnoi-zbrojnoi-agresii-vtrati-rosijskih-okupantiv-stanovlyat-19900-osib-ta-ponad-360-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/) |
 | [2022-04-13](https://uadata.net/ukraine-russia-war-2022/rszv/2022-04-13+10%3A00%3A00) | 115 | [відкрити](https://www.mil.gov.ua/news/2022/04/13/za-sim-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-majzhe-2000-bojovih-bronovanih-mashin-znishheno-ponad-730-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/) |
@@ -61,14 +63,9 @@ curl https://uadata.net/ukraine-russia-war-2022/rszv.json
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0420\u0421\u0417\u0412",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/rszv",
+    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B7%D0%B0%D0%BB%D0%BF%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%B3%D0%BD%D1%8E",
     "data": [
         {
-            "at": "2022-04-15 10:00:00",
-            "val": 122,
-            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/296662599312866"
-        },
-        {
-            "at": "2022-04-14 10:00:00",
-            "val": 122,
-            "ref": "https:\/\/www.mil.gov.ua\/news\/2022\/04\/14\/za-pyatdesyat-dniv-povn...
+            "date": "...
 ```
