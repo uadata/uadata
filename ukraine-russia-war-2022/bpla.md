@@ -1,10 +1,11 @@
-# Втрати БПЛА
+# Втрати БПЛА РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА РФ](https://uadata.net/screen?458409&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-18+10%3A00%3A00) | 155 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-17+10%3A00%3A00) | 148 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-16+10%3A00%3A00) | 138 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-15+10%3A00%3A00) | 135 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
@@ -63,12 +64,11 @@ curl https://uadata.net/ukraine-russia-war-2022/bpla.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0411\u041f\u041b\u0410",
+    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0411\u041f\u041b\u0410 \u0420\u0424",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bpla",
     "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%91%D0%B5%D0%B7%D0%BF%D1%96%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%BB%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BF%D0%B0%D1%80%D0%B0%D1%82",
     "data": [
         {
-            "date": "2022-04-17",
-            ...
+            "date": "2022-04-18",...
 ```

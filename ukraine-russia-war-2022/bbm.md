@@ -1,10 +1,11 @@
-# Втрати бойових машин
+# Втрати бойових машин РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин РФ](https://uadata.net/screen?458409&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-18+10%3A00%3A00) | 2041 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-17+10%3A00%3A00) | 2002 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-16+10%3A00%3A00) | 1982 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/bbm/2022-04-15+10%3A00%3A00) | 1976 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
@@ -64,13 +65,13 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0430\u0448\u0438\u043d",
+    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0430\u0448\u0438\u043d \u0420\u0424",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
     "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0",
     "data": [
         {
-            "date": "2022-04-17",
-            "val": 2002,
-            "ref": "http...
+            "date": "2022-04-18",
+            "val": 2041,
+           ...
 ```

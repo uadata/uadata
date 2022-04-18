@@ -1,10 +1,12 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?458385&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?458409&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-18+11%3A07%3A44) | 205 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-205-ditei-zaginuli-cerez-zbroinu-agresiyu-rf-v-ukrayini) |
+| [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-17+11%3A08%3A10) | 202 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-202-ditini-zaginuli-cerez-zbroinu-agresiyu-rf-v-ukrayini) |
 | [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-16+13%3A41%3A06) | 200 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginuli-200-ditei) |
 | [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-15+09%3A58%3A54) | 198 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginuli-198-ditei) |
 | [2022-04-14](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-14+12%3A26%3A03) | 197 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-cerez-zbroinu-agresiyu-rf-v-ukrayini-zaginuli-197-ditei) |
@@ -54,7 +56,7 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-m
     "hub_api_url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022.json",
     "data": [
         {
-            "date": "2022-04-16",
-            "val": 200,
+            "date": "2022-04-18",
+            "val": 205,
             "ref": "https:\/\/gp.gov.ua\/ua\/posts\/yuvenalni-prok...
 ```

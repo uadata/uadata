@@ -1,10 +1,11 @@
-# Втрати танків
+# Втрати танків РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків](https://uadata.net/screen?458385&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків РФ](https://uadata.net/screen?458409&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-18+10%3A00%3A00) | 790 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-17+10%3A00%3A00) | 773 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-16+10%3A00%3A00) | 762 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
 | [2022-04-15](https://uadata.net/ukraine-russia-war-2022/tanks/2022-04-15+10%3A00%3A00) | 756 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/296662599312866) |
@@ -63,15 +64,14 @@ curl https://uadata.net/ukraine-russia-war-2022/tanks.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0442\u0430\u043d\u043a\u0456\u0432",
+    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0442\u0430\u043d\u043a\u0456\u0432 \u0420\u0424",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/tanks",
     "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%A2%D0%B0%D0%BD%D0%BA",
     "data": [
         {
-            "date": "2022-04-17",
-            "val": 773,
-            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/297941089185017"
-        },
-        ...
+            "date": "2022-04-18",
+            "val": 790,
+            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/298624602449999"
+      ...
 ```

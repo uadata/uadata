@@ -1,10 +1,12 @@
 # Кількість гуманітарних коридорів
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458385&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458409&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-18+11%3A17%3A22) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1885689634950884/) |
+| [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-17+11%3A18%3A04) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1884990245020823/) |
 | [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-16+13%3A42%3A25) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1884169315102916/) |
 | [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-15+09%3A59%3A58) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1883490918504089/) |
 | [2022-04-14](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-14+12%3A27%3A25) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1882795368573644/) |
@@ -32,6 +34,6 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilki
     "hub_api_url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022.json",
     "data": [
         {
-            "date": "2022-04-16",
-            "val": 9,...
+            "date": "2022-04-18",
+            "val": 0,...
 ```

@@ -1,10 +1,12 @@
 # Зареєстровані злочини РФ
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?458385&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?458409&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-18+11%3A07%3A06) | 7130 | [відкрити](https://www.gp.gov.ua/storage/uploads/f85338f2-324b-4067-839c-bce69ea01545/warcrime-18042022ua.jpg) |
+| [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-17+11%3A08%3A30) | 6999 | [відкрити](https://www.facebook.com/100064585280174/posts/351983286964511/) |
 | [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-16+13%3A40%3A19) | 6889 | [відкрити](https://www.gp.gov.ua/storage/uploads/131c1f27-6b22-4358-a860-b05119ff057f/warcrime-16042022ua.jpg) |
 | [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-15+09%3A58%3A09) | 6673 | [відкрити](https://www.gp.gov.ua/storage/uploads/41fe76df-d0b1-418d-9bfc-c3e0d65c425f/warcrime-15042022ua.jpg) |
 | [2022-04-14](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-04-14+12%3A25%3A46) | 6492 | [відкрити](https://www.gp.gov.ua/storage/uploads/337e014b-6ed7-4e64-b58f-f5677eaaabf5/warcrime-14042022ua.jpg) |
@@ -45,7 +47,7 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/regis
     "ref_url": "https:\/\/gp.gov.ua\/",
     "data": [
         {
-            "date": "2022-04-16",
-            "val": 6889,
+            "date": "2022-04-18",
+            "val": 7130,
             "ref":...
 ```

@@ -1,10 +1,11 @@
 # Кількість евакуйованих людей
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458385&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?458409&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-17+11%3A18%3A49) | 1449 | [відкрити](https://www.facebook.com/100005295963148/posts/1884479555071892/) |
 | [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-16+13%3A42%3A41) | 2864 | [відкрити](https://www.facebook.com/100005295963148/posts/1883742771812237/) |
 | [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-15+10%3A00%3A14) | 2557 | [відкрити](https://www.facebook.com/100005295963148/posts/1883110398542141/) |
 | [2022-04-13](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh/2022-04-13+12%3A38%3A36) | 2671 | [відкрити](https://www.facebook.com/100005295963148/posts/1881666135353234/) |
@@ -31,7 +32,7 @@ curl https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilki
     "hub_api_url": "https:\/\/uadata.net\/how-many-children-died-from-russia-aggression-2022.json",
     "data": [
         {
-            "date": "2022-04-16",
-            "val": 2864,
+            "date": "2022-04-17",
+            "val": 1449,
             "ref": "https:\/\/...
 ```
