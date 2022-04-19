@@ -1,6 +1,6 @@
 # Кількість хворих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458412&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458433&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
 
 ### Історія значень
 | Дата | Значення | Джерело |
@@ -847,16 +847,7 @@ curl https://uadata.net/coronavirus-in-ukraine/total-cases.json
 ```
 {
     "title": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0445\u0432\u043e\u0440\u0438\u0445",
+    "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
     "url": "https:\/\/uadata.net\/coronavirus-in-ukraine\/total-cases",
-    "hub_api_url": "https:\/\/uadata.net\/coronavirus-in-ukraine.json",
-    "data": [
-        {
-            "date": "2022-04-14",
-            "val": 1575,
-            "ref": "https:\/\/covid19.who.int\/data"
-        },
-        {
-            "date": "2022-04-13",
-            "val": 1605,
-            "ref": "https:\/\/...
+    "hub_api_url": "https:\/\/uadata.net\/coronavirus-in-ukraine...
 ```

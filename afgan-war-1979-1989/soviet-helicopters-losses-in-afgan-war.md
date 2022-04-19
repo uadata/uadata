@@ -1,6 +1,6 @@
 # Втрати гелікоптерів СРСР
 ### Графік
-[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати гелікоптерів СРСР](https://uadata.net/screen?458412&u=%2Fafgan-war-1979-1989%2Fsoviet-helicopters-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war)
+[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати гелікоптерів СРСР](https://uadata.net/screen?458433&u=%2Fafgan-war-1979-1989%2Fsoviet-helicopters-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |
@@ -25,7 +25,6 @@ curl https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-w
 ```
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0433\u0435\u043b\u0456\u043a\u043e\u043f\u0442\u0435\u0440\u0456\u0432 \u0421\u0420\u0421\u0420",
-    "url": "https:\/\/uadata.net\/afgan-war-1979-1989\/soviet-helicopters-losses-in-afgan-war",
-    "hub_api_url": "https:\/\/uadata.net\/afgan-war-1979-1989.json",
-    "ref_url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8C_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0...
+    "long_title": "\u0421\u043a\u0456\u043b\u044c\u043a\u0438 \u0433\u0435\u043b\u0456\u043a\u043e\u043f\u0442\u0435\u0440\u0456\u0432 \u0432\u0442\u0440\u0430\u0442\u0438\u0432 \u0421\u0420\u0421\u0420 \u0432 \u0410\u0444\u0433\u0430\u043d\u0441\u044c\u043a\u0456\u0439 \u0432\u0456\u0439\u043d\u0456 (1979 \u2014 1989)",
+    "url": "https:\/\/ua...
 ```

@@ -1,6 +1,6 @@
 # Втрати авіації СРСР
 ### Графік
-[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати авіації СРСР](https://uadata.net/screen?458412&u=%2Fafgan-war-1979-1989%2Fsoviet-aircraft-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
+[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати авіації СРСР](https://uadata.net/screen?458433&u=%2Fafgan-war-1979-1989%2Fsoviet-aircraft-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |
@@ -223,12 +223,7 @@ curl https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war.
 ```
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0432\u0456\u0430\u0446\u0456\u0457 \u0421\u0420\u0421\u0420",
+    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0432\u0456\u0430\u0446\u0456\u0457 \u0421\u0420\u0421\u0420 \u0432 \u0410\u0444\u0433\u0430\u043d\u0441\u044c\u043a\u0456\u0439 \u0432\u0456\u0439\u043d\u0456 (1979 \u2014 1989)",
     "url": "https:\/\/uadata.net\/afgan-war-1979-1989\/soviet-aircraft-losses-in-afgan-war",
-    "hub_api_url": "https:\/\/uadata.net\/afgan-war-1979-1989.json",
-    "ref_url": "https:\/\/en.wikipedia.org\/wiki\/List_of_Soviet_aircraft_losses_during_the_Soviet%E2%80%93Afghan_War",
-    "data": [
-        {
-            "year": "1989",
-            "val": 1,
-            "ref": "h...
+    "hub_api_url": "https:\/\/uadata.net...
 ```

@@ -1,10 +1,11 @@
 # Втрати БПЛА РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА РФ](https://uadata.net/screen?458412&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА РФ](https://uadata.net/screen?458433&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-19](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-19+10%3A00%3A00) | 158 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/299215549057571) |
 | [2022-04-18](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-18+10%3A00%3A00) | 155 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-17+10%3A00%3A00) | 148 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/bpla/2022-04-16+10%3A00%3A00) | 138 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
@@ -65,10 +66,5 @@ curl https://uadata.net/ukraine-russia-war-2022/bpla.json
 ```
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0411\u041f\u041b\u0410 \u0420\u0424",
-    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bpla",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%91%D0%B5%D0%B7%D0%BF%D1%96%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%BB%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BF%D0%B0%D1%80%D0%B0%D1%82",
-    "data": [
-        {
-            "date": "2022-04-18",...
+    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0431\u0435\u0437\u043f\u0456\u043b\u043e\u0442\u043d\u0438\u0445 \u043b\u0456\u0442\u0430\u043b\u044c\u043d\u0438\u0445 \u0430\u043f\u0430\u0440\u0430\u0442\u0456\u0432 \u0420\u0424 \u043f\u0456\u0434 \u0447\u0430\u0441 \u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u0437\u0431\u0440\u043e\u0439\u043d\u043e\u0457 \u0430\u0433\u0440\...
 ```

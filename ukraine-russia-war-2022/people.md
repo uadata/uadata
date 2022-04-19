@@ -1,10 +1,11 @@
 # Втрати особового складу РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу РФ](https://uadata.net/screen?458412&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу РФ](https://uadata.net/screen?458433&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-19](https://uadata.net/ukraine-russia-war-2022/people/2022-04-19+10%3A00%3A00) | 20800 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/299215549057571) |
 | [2022-04-18](https://uadata.net/ukraine-russia-war-2022/people/2022-04-18+10%3A00%3A00) | 20600 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/people/2022-04-17+10%3A00%3A00) | 20300 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/people/2022-04-16+10%3A00%3A00) | 20100 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
@@ -65,7 +66,5 @@ curl https://uadata.net/ukraine-russia-war-2022/people.json
 ```
 {
     "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0420\u0424",
-    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/people",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%97%D0%B1%D1%80%D0%BE%D0%B9%D0%BD%D1%96_%D1%81%D0%B8%D0%BB%D0%B8_%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A4%D0%B5%D0%B4%D...
+    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0430\u0440\u043c\u0456\u0457 \u0420\u0424 \u043f\u0456\u0434 \u0447\u0430\u0441 \u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u0437\u0431\u0440\u043e\u0439\u043d\u043e\u0457 ...
 ```

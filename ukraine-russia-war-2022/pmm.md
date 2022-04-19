@@ -1,10 +1,11 @@
 # Цистерни ПММ РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Цистерни ПММ РФ](https://uadata.net/screen?458412&u=%2Fukraine-russia-war-2022%2Fpmm) ](https://uadata.net/ukraine-russia-war-2022/pmm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Цистерни ПММ РФ](https://uadata.net/screen?458433&u=%2Fukraine-russia-war-2022%2Fpmm) ](https://uadata.net/ukraine-russia-war-2022/pmm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-19](https://uadata.net/ukraine-russia-war-2022/pmm/2022-04-19+10%3A00%3A00) | 76 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/299215549057571) |
 | [2022-04-18](https://uadata.net/ukraine-russia-war-2022/pmm/2022-04-18+10%3A00%3A00) | 76 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/pmm/2022-04-17+10%3A00%3A00) | 76 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |
 | [2022-04-16](https://uadata.net/ukraine-russia-war-2022/pmm/2022-04-16+10%3A00%3A00) | 76 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297315529247573) |
@@ -65,11 +66,11 @@ curl https://uadata.net/ukraine-russia-war-2022/pmm.json
 ```
 {
     "title": "\u0426\u0438\u0441\u0442\u0435\u0440\u043d\u0438 \u041f\u041c\u041c \u0420\u0424",
+    "long_title": "",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/pmm",
     "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%9F%D0%B0%D0%BB%D0%B8%D0%B2%D0%BD%D0%BE-%D0%BC%D0%B0%D1%81%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%96_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D0%B8",
     "data": [
         {
-            "date": "2022-04-18",
-...
+            ...
 ```
