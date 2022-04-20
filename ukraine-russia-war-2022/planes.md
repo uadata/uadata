@@ -1,10 +1,11 @@
 # Втрати літаків РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати літаків РФ](https://uadata.net/screen?458433&u=%2Fukraine-russia-war-2022%2Fplanes) ](https://uadata.net/ukraine-russia-war-2022/planes)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати літаків РФ](https://uadata.net/screen?458457&u=%2Fukraine-russia-war-2022%2Fplanes) ](https://uadata.net/ukraine-russia-war-2022/planes)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-20](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-20+10%3A00%3A00) | 171 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/299900388989087) |
 | [2022-04-19](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-19+10%3A00%3A00) | 169 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/299215549057571) |
 | [2022-04-18](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-18+10%3A00%3A00) | 167 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/298624602449999) |
 | [2022-04-17](https://uadata.net/ukraine-russia-war-2022/planes/2022-04-17+10%3A00%3A00) | 165 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/297941089185017) |

@@ -1,10 +1,11 @@
 # Кількість летальних випадків
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458433&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458457&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-19](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-19+00%3A00%3A00) | 12 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-14](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-14+00%3A00%3A00) | 26 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-13](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-13+00%3A00%3A00) | 27 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-12](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-12+00%3A00%3A00) | 28 | [відкрити](https://covid19.who.int/data) |
