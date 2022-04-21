@@ -1,11 +1,16 @@
 # Кількість летальних випадків
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458457&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458481&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-20](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-20+00%3A00%3A00) | 18 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-19](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-19+00%3A00%3A00) | 12 | [відкрити](https://covid19.who.int/data) |
+| [2022-04-18](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-18+00%3A00%3A00) | 3 | [відкрити](https://covid19.who.int/data) |
+| [2022-04-17](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-17+00%3A00%3A00) | 6 | [відкрити](https://covid19.who.int/data) |
+| [2022-04-16](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-16+00%3A00%3A00) | 11 | [відкрити](https://covid19.who.int/data) |
+| [2022-04-15](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-15+00%3A00%3A00) | 16 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-14](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-14+00%3A00%3A00) | 26 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-13](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-13+00%3A00%3A00) | 27 | [відкрити](https://covid19.who.int/data) |
 | [2022-04-12](https://uadata.net/coronavirus-in-ukraine/totla-deaths/2022-04-12+00%3A00%3A00) | 28 | [відкрити](https://covid19.who.int/data) |

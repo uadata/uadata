@@ -1,10 +1,11 @@
 # Кількість гуманітарних коридорів
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458457&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?458481&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-20](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-20+12%3A57%3A14) | 1 | [відкрити](https://www.facebook.com/100005295963148/posts/1886999961486518/) |
 | [2022-04-19](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-19+11%3A06%3A31) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1886327514887096/) |
 | [2022-04-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-18+11%3A17%3A22) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1885689634950884/) |
 | [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-17+11%3A18%3A04) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1884990245020823/) |
