@@ -1,10 +1,11 @@
 # Втрати гелікоптерів РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів РФ](https://uadata.net/screen?458529&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати гелікоптерів РФ](https://uadata.net/screen?458553&u=%2Fukraine-russia-war-2022%2Fhelicopters) ](https://uadata.net/ukraine-russia-war-2022/helicopters)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-24](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-24+10%3A00%3A00) | 154 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/302477642064695) |
 | [2022-04-23](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-23+10%3A00%3A00) | 154 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/301832242129235) |
 | [2022-04-22](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-22+10%3A00%3A00) | 153 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/301182535527539) |
 | [2022-04-21](https://uadata.net/ukraine-russia-war-2022/helicopters/2022-04-21+10%3A00%3A00) | 151 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/300545655591227) |
