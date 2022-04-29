@@ -1,10 +1,11 @@
 # Курс долара до гривні
 ### Графік
-[ ![Графік: Курси валют до гривні / Курс долара до гривні](https://uadata.net/screen?458649&u=%2Fcurrency-exchange-rate%2Fdollar-to-hryvna) ](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
+[ ![Графік: Курси валют до гривні / Курс долара до гривні](https://uadata.net/screen?458673&u=%2Fcurrency-exchange-rate%2Fdollar-to-hryvna) ](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-29](https://uadata.net/currency-exchange-rate/dollar-to-hryvna/2022-04-29+00%3A00%3A00) | 29.2549 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-04-28](https://uadata.net/currency-exchange-rate/dollar-to-hryvna/2022-04-28+00%3A00%3A00) | 29.2549 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-04-27](https://uadata.net/currency-exchange-rate/dollar-to-hryvna/2022-04-27+00%3A00%3A00) | 29.2549 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-04-26](https://uadata.net/currency-exchange-rate/dollar-to-hryvna/2022-04-26+00%3A00%3A00) | 29.2549 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |

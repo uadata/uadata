@@ -1,10 +1,11 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?458649&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?458673&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-04-29](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-29+08%3A41%3A12) | 219 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-219-ditei-zaginuli-v-ukrayini-cerez-zbroinu-agresiyu-rf) |
 | [2022-04-28](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-28+10%3A31%3A21) | 217 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-217-ditei-zaginuli-v-ukrayini-cerez-zbroinu-agresiyu-rf-3) |
 | [2022-04-27](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-27+21%3A50%3A33) | 217 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-217-ditei-zaginuli-v-ukrayini-cerez-zbroinu-agresiyu-rf-2) |
 | [2022-04-26](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-04-26+10%3A42%3A38) | 217 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-217-ditei-zaginuli-v-ukrayini-cerez-zbroinu-agresiyu-rf) |
