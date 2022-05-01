@@ -1,6 +1,6 @@
 # Кількість летальних випадків
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458697&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість летальних випадків](https://uadata.net/screen?458721&u=%2Fcoronavirus-in-ukraine%2Ftotla-deaths) ](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
 
 ### Історія значень
 | Дата | Значення | Джерело |

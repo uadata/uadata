@@ -1,6 +1,6 @@
 # Кількість хворих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458697&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458721&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
 
 ### Історія значень
 | Дата | Значення | Джерело |
