@@ -1,6 +1,6 @@
 # Пошкоджені та знищені житлові будинки
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Пошкоджені та знищені житлові будинки](https://uadata.net/screen?458745&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fdestroed-or-damanged-living-houses) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Пошкоджені та знищені житлові будинки](https://uadata.net/screen?458769&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fdestroed-or-damanged-living-houses) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses)
 
 ### Історія значень
 | Дата | Значення | Джерело |
