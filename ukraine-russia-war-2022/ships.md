@@ -1,10 +1,11 @@
 # Втрати кораблів РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати кораблів РФ](https://uadata.net/screen?458793&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати кораблів РФ](https://uadata.net/screen?458817&u=%2Fukraine-russia-war-2022%2Fships) ](https://uadata.net/ukraine-russia-war-2022/ships)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-05](https://uadata.net/ukraine-russia-war-2022/ships/2022-05-05+10%3A00%3A00) | 10 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/310162501296209) |
 | [2022-05-04](https://uadata.net/ukraine-russia-war-2022/ships/2022-05-04+10%3A00%3A00) | 10 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/309397948039331) |
 | [2022-05-03](https://uadata.net/ukraine-russia-war-2022/ships/2022-05-03+10%3A00%3A00) | 10 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/308718208107305) |
 | [2022-05-02](https://uadata.net/ukraine-russia-war-2022/ships/2022-05-02+10%3A00%3A00) | 8 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/308007821511677) |
