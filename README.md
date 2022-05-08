@@ -1,5 +1,5 @@
 # [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
-[![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?458865&u=%2Fukraine-russia-war-2022)](https://uadata.net/ukraine-russia-war-2022)
+[![Графік: Втрати армії РФ у війні проти України 2022 року](https://uadata.net/screen?458889&u=%2Fukraine-russia-war-2022)](https://uadata.net/ukraine-russia-war-2022)
 
 Оновлено **2022-05-07 10:00:00**
 
@@ -16,53 +16,53 @@
 - [Втрати БПЛА РФ](https://uadata.net/ukraine-russia-war-2022/bpla): 341 [історія](/ukraine-russia-war-2022/bpla.md)
 - [Втрати особового складу РФ](https://uadata.net/ukraine-russia-war-2022/people): 25100 [історія](/ukraine-russia-war-2022/people.md)
 # [Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
-[![Графік: Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/screen?458865&u=%2Fhow-many-children-died-from-russia-aggression-2022)](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
+[![Графік: Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/screen?458889&u=%2Fhow-many-children-died-from-russia-aggression-2022)](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
-- [Скільки дітей загинуло](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died): 223 [історія](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md)
-- [Зареєстровані злочини РФ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes): 10257 [історія](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md)
+- [Скільки дітей загинуло](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died): 225 [історія](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md)
+- [Зареєстровані злочини РФ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes): 10373 [історія](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md)
 - [Кількість затриманих диверсантів](https://uadata.net/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs): 600 [історія](/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs.md)
 - [Пошкоджені та знищені житлові будинки](https://uadata.net/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses): 6800 [історія](/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses.md)
 - [Кількість евакуйованих людей](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh): 1449 [історія](/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh.md)
 - [Кількість гуманітарних коридорів](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv): 1 [історія](/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv.md)
 # [Війна в Афганістані 1979 — 1989 років](https://uadata.net/afgan-war-1979-1989)
-[![Графік: Війна в Афганістані 1979 — 1989 років](https://uadata.net/screen?458865&u=%2Fafgan-war-1979-1989)](https://uadata.net/afgan-war-1979-1989)
+[![Графік: Війна в Афганістані 1979 — 1989 років](https://uadata.net/screen?458889&u=%2Fafgan-war-1979-1989)](https://uadata.net/afgan-war-1979-1989)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
 - [Втрати особового складу СРСР](https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army): 53 [історія](/afgan-war-1979-1989/soviet-army-losses-in-afgan-army.md)
 - [Втрати авіації СРСР](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war): 1 [історія](/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war.md)
 - [Втрати гелікоптерів СРСР](https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war): 3 [історія](/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war.md)
 # [Статистика коронавірусу в Україні](https://uadata.net/coronavirus-in-ukraine)
-[![Графік: Статистика коронавірусу в Україні](https://uadata.net/screen?458865&u=%2Fcoronavirus-in-ukraine)](https://uadata.net/coronavirus-in-ukraine)
+[![Графік: Статистика коронавірусу в Україні](https://uadata.net/screen?458889&u=%2Fcoronavirus-in-ukraine)](https://uadata.net/coronavirus-in-ukraine)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
-- [Кількість хворих](https://uadata.net/coronavirus-in-ukraine/total-cases): 0 [історія](/coronavirus-in-ukraine/total-cases.md)
-- [Кількість летальних випадків](https://uadata.net/coronavirus-in-ukraine/totla-deaths): 0 [історія](/coronavirus-in-ukraine/totla-deaths.md)
+- [Кількість хворих](https://uadata.net/coronavirus-in-ukraine/total-cases): 984 [історія](/coronavirus-in-ukraine/total-cases.md)
+- [Кількість летальних випадків](https://uadata.net/coronavirus-in-ukraine/totla-deaths): 43 [історія](/coronavirus-in-ukraine/totla-deaths.md)
 - [Кількість вакцинованих](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated): 15774300 [історія](/coronavirus-in-ukraine/persons-vaccinated.md)
 - [Кількість повністю вакцинованих](https://uadata.net/coronavirus-in-ukraine/persons-fully-vaccinated): 15153577 [історія](/coronavirus-in-ukraine/persons-fully-vaccinated.md)
 - [Вакциновані бустерною дозою](https://uadata.net/coronavirus-in-ukraine/persons-with-booster): 741197 [історія](/coronavirus-in-ukraine/persons-with-booster.md)
 # [Друга Світова Війна 1939 — 1945 років](https://uadata.net/second-world-war)
-[![Графік: Друга Світова Війна 1939 — 1945 років](https://uadata.net/screen?458865&u=%2Fsecond-world-war)](https://uadata.net/second-world-war)
+[![Графік: Друга Світова Війна 1939 — 1945 років](https://uadata.net/screen?458889&u=%2Fsecond-world-war)](https://uadata.net/second-world-war)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
 - [Втрати особового складу армій світу](https://uadata.net/second-world-war/army-loses-by-country-in-second-world-war)
 - [Втрати мирного населення країн світу](https://uadata.net/second-world-war/people-losses-in-second-world-war)
 - [Фінансові втрати країн світу](https://uadata.net/second-world-war/financial-losses-in-second-world-war)
 # [Курси валют до гривні](https://uadata.net/currency-exchange-rate)
-[![Графік: Курси валют до гривні](https://uadata.net/screen?458865&u=%2Fcurrency-exchange-rate)](https://uadata.net/currency-exchange-rate)
+[![Графік: Курси валют до гривні](https://uadata.net/screen?458889&u=%2Fcurrency-exchange-rate)](https://uadata.net/currency-exchange-rate)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
 - [Курс долара до гривні](https://uadata.net/currency-exchange-rate/dollar-to-hryvna): 29.2549 [історія](/currency-exchange-rate/dollar-to-hryvna.md)
 - [Курс євро до гривні](https://uadata.net/currency-exchange-rate/euro-to-hryvna): 30.8595 [історія](/currency-exchange-rate/euro-to-hryvna.md)
 - [Курс рубля до гривні](https://uadata.net/currency-exchange-rate/fubl-to-hryvna): 0.4608 [історія](/currency-exchange-rate/fubl-to-hryvna.md)
 # [Державний бюджет України](https://uadata.net/ua-budget)
-[![Графік: Державний бюджет України](https://uadata.net/screen?458865&u=%2Fua-budget)](https://uadata.net/ua-budget)
+[![Графік: Державний бюджет України](https://uadata.net/screen?458889&u=%2Fua-budget)](https://uadata.net/ua-budget)
 
-Оновлено **2022-05-07 10:15:18**
+Оновлено **2022-05-08 10:39:53**
 
 - [Витрати бюджету](https://uadata.net/ua-budget/expenses)
