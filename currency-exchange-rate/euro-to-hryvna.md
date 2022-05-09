@@ -1,10 +1,11 @@
 # Курс євро до гривні
 ### Графік
-[ ![Графік: Курси валют до гривні / Курс євро до гривні](https://uadata.net/screen?458889&u=%2Fcurrency-exchange-rate%2Feuro-to-hryvna) ](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
+[ ![Графік: Курси валют до гривні / Курс євро до гривні](https://uadata.net/screen?458913&u=%2Fcurrency-exchange-rate%2Feuro-to-hryvna) ](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-09](https://uadata.net/currency-exchange-rate/euro-to-hryvna/2022-05-09+00%3A00%3A00) | 30.9063 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-08](https://uadata.net/currency-exchange-rate/euro-to-hryvna/2022-05-08+00%3A00%3A00) | 30.8595 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-07](https://uadata.net/currency-exchange-rate/euro-to-hryvna/2022-05-07+00%3A00%3A00) | 30.8595 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-06](https://uadata.net/currency-exchange-rate/euro-to-hryvna/2022-05-06+00%3A00%3A00) | 30.8595 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
