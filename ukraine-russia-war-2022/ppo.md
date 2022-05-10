@@ -1,10 +1,11 @@
 # Втрати ППО РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати ППО РФ](https://uadata.net/screen?458913&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати ППО РФ](https://uadata.net/screen?458937&u=%2Fukraine-russia-war-2022%2Fppo) ](https://uadata.net/ukraine-russia-war-2022/ppo)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-10](https://uadata.net/ukraine-russia-war-2022/ppo/2022-05-10+10%3A00%3A00) | 87 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/313657950946664) |
 | [2022-05-09](https://uadata.net/ukraine-russia-war-2022/ppo/2022-05-09+10%3A00%3A00) | 87 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/312957104350082) |
 | [2022-05-08](https://uadata.net/ukraine-russia-war-2022/ppo/2022-05-08+10%3A00%3A00) | 86 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/312266117752514) |
 | [2022-05-07](https://uadata.net/ukraine-russia-war-2022/ppo/2022-05-07+10%3A00%3A00) | 84 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/311505637828562) |

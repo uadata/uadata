@@ -1,10 +1,11 @@
 # Втрати БПЛА РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА РФ](https://uadata.net/screen?458913&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати БПЛА РФ](https://uadata.net/screen?458937&u=%2Fukraine-russia-war-2022%2Fbpla) ](https://uadata.net/ukraine-russia-war-2022/bpla)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-10](https://uadata.net/ukraine-russia-war-2022/bpla/2022-05-10+10%3A00%3A00) | 380 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/313657950946664) |
 | [2022-05-09](https://uadata.net/ukraine-russia-war-2022/bpla/2022-05-09+10%3A00%3A00) | 377 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/312957104350082) |
 | [2022-05-08](https://uadata.net/ukraine-russia-war-2022/bpla/2022-05-08+10%3A00%3A00) | 360 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/312266117752514) |
 | [2022-05-07](https://uadata.net/ukraine-russia-war-2022/bpla/2022-05-07+10%3A00%3A00) | 341 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/311505637828562) |
