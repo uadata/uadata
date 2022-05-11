@@ -1,10 +1,11 @@
 # Кількість хворих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458937&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?458961&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-10](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-05-10+00%3A00%3A00) | 0 | [відкрити](https://covid19.who.int/data) |
 | [2022-05-09](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-05-09+00%3A00%3A00) | 3590 | [відкрити](https://covid19.who.int/data) |
 | [2022-05-08](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-05-08+00%3A00%3A00) | 0 | [відкрити](https://covid19.who.int/data) |
 | [2022-05-07](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-05-07+00%3A00%3A00) | 984 | [відкрити](https://covid19.who.int/data) |
