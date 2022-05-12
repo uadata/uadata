@@ -1,6 +1,6 @@
 # Кількість затриманих диверсантів
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість затриманих диверсантів](https://uadata.net/screen?458961&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fnumber-of-arrested-saboteurs) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість затриманих диверсантів](https://uadata.net/screen?458985&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fnumber-of-arrested-saboteurs) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs)
 
 ### Історія значень
 | Дата | Значення | Джерело |

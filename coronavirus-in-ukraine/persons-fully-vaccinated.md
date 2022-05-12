@@ -1,6 +1,6 @@
 # Кількість повністю вакцинованих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість повністю вакцинованих](https://uadata.net/screen?458961&u=%2Fcoronavirus-in-ukraine%2Fpersons-fully-vaccinated) ](https://uadata.net/coronavirus-in-ukraine/persons-fully-vaccinated)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість повністю вакцинованих](https://uadata.net/screen?458985&u=%2Fcoronavirus-in-ukraine%2Fpersons-fully-vaccinated) ](https://uadata.net/coronavirus-in-ukraine/persons-fully-vaccinated)
 
 ### Історія значень
 | Дата | Значення | Джерело |
