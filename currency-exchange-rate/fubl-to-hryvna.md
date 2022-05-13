@@ -1,10 +1,11 @@
 # Курс рубля до гривні
 ### Графік
-[ ![Графік: Курси валют до гривні / Курс рубля до гривні](https://uadata.net/screen?458985&u=%2Fcurrency-exchange-rate%2Ffubl-to-hryvna) ](https://uadata.net/currency-exchange-rate/fubl-to-hryvna)
+[ ![Графік: Курси валют до гривні / Курс рубля до гривні](https://uadata.net/screen?459009&u=%2Fcurrency-exchange-rate%2Ffubl-to-hryvna) ](https://uadata.net/currency-exchange-rate/fubl-to-hryvna)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-13](https://uadata.net/currency-exchange-rate/fubl-to-hryvna/2022-05-13+00%3A00%3A00) | 0.45076 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-12](https://uadata.net/currency-exchange-rate/fubl-to-hryvna/2022-05-12+00%3A00%3A00) | 0.42775 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-11](https://uadata.net/currency-exchange-rate/fubl-to-hryvna/2022-05-11+00%3A00%3A00) | 0.42011 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
 | [2022-05-10](https://uadata.net/currency-exchange-rate/fubl-to-hryvna/2022-05-10+00%3A00%3A00) | 0.41619 | [відкрити](https://bank.gov.ua/ua/markets/exchangerates) |
