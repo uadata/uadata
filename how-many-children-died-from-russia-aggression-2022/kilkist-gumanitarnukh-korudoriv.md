@@ -1,6 +1,6 @@
 # Кількість гуманітарних коридорів
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?459009&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість гуманітарних коридорів](https://uadata.net/screen?459033&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-gumanitarnukh-korudoriv) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
