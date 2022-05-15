@@ -1,6 +1,6 @@
 # Кількість евакуйованих людей
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?459033&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Кількість евакуйованих людей](https://uadata.net/screen?459057&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fkilkist-evakuyovanukh) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh)
 
 ### Історія значень
 | Дата | Значення | Джерело |
