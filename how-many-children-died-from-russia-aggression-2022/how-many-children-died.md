@@ -1,10 +1,15 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459057&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459183&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-20](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-20+09%3A11%3A37) | 232 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-232-ditini) |
+| [2022-05-19](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-19+06%3A36%3A11) | 231 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginula-231-ditina) |
+| [2022-05-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-18+06%3A58%3A44) | 229 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-229-ditei-3) |
+| [2022-05-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-17+09%3A03%3A41) | 229 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-229-ditei-2) |
+| [2022-05-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-16+08%3A56%3A08) | 229 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-229-ditei) |
 | [2022-05-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-15+09%3A22%3A57) | 227 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-227-ditei-2) |
 | [2022-05-14](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-14+09%3A27%3A33) | 227 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginulo-227-ditei) |
 | [2022-05-13](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-13+10%3A09%3A08) | 226 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-226-ditei-zaginulo-v-ukrayini-cerez-zbroinu-agresiyu-rf-7957) |

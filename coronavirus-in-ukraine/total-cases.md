@@ -1,6 +1,6 @@
-# Кількість хворих
+# Кількість випадків COVID-19
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість хворих](https://uadata.net/screen?459057&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість випадків COVID-19](https://uadata.net/screen?459183&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
 
 ### Історія значень
 | Дата | Значення | Джерело |
@@ -875,8 +875,8 @@ curl https://uadata.net/coronavirus-in-ukraine/total-cases.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0445\u0432\u043e\u0440\u0438\u0445",
+    "title": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 COVID-19",
     "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
     "url": "https:\/\/uadata.net\/coronavirus-in-ukraine\/total-cases",
-    "hub_api_url": "https:\/\/uadata.net\/coronavirus-in-ukraine...
+    "hub_api_url": "https:\/\/uadata.net\/c...
 ```
