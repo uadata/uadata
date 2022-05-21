@@ -1,6 +1,6 @@
 # Кількість вакансій програмістів
 ### Графік
-[ ![Графік: ІТ та розробка софту в Україні / Кількість вакансій програмістів](https://uadata.net/screen?459183&u=%2Fit-industry%2Fprogramming-languages) ](https://uadata.net/it-industry/programming-languages)
+[ ![Графік: ІТ та розробка софту в Україні / Кількість вакансій програмістів](https://uadata.net/screen?459201&u=%2Fit-industry%2Fprogramming-languages) ](https://uadata.net/it-industry/programming-languages)
 
 ### Історія значень
 | Дата | Значення | Джерело |
