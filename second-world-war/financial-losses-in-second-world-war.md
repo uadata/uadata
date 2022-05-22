@@ -1,6 +1,6 @@
 # Фінансові втрати країн світу
 ### Графік
-[ ![Графік: Друга Світова Війна 1939 — 1945 років / Фінансові втрати країн світу](https://uadata.net/screen?459201&u=%2Fsecond-world-war%2Ffinancial-losses-in-second-world-war) ](https://uadata.net/second-world-war/financial-losses-in-second-world-war)
+[ ![Графік: Друга Світова Війна 1939 — 1945 років / Фінансові втрати країн світу](https://uadata.net/screen?459225&u=%2Fsecond-world-war%2Ffinancial-losses-in-second-world-war) ](https://uadata.net/second-world-war/financial-losses-in-second-world-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |
