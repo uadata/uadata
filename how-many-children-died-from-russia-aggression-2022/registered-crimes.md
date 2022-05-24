@@ -1,6 +1,6 @@
 # Зареєстровані злочини РФ
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?459249&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?459273&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
 
 ### Історія значень
 | Дата | Значення | Джерело |

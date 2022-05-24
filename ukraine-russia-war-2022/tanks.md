@@ -1,10 +1,11 @@
 # Втрати танків РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків РФ](https://uadata.net/screen?459249&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати танків РФ](https://uadata.net/screen?459273&u=%2Fukraine-russia-war-2022%2Ftanks) ](https://uadata.net/ukraine-russia-war-2022/tanks)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-24](https://uadata.net/ukraine-russia-war-2022/tanks/2022-05-24+10%3A00%3A00) | 1302 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/323330949979364) |
 | [2022-05-23](https://uadata.net/ukraine-russia-war-2022/tanks/2022-05-23+10%3A00%3A00) | 1293 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/322634696715656) |
 | [2022-05-22](https://uadata.net/ukraine-russia-war-2022/tanks/2022-05-22+10%3A00%3A00) | 1285 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/322008163444976) |
 | [2022-05-21](https://uadata.net/ukraine-russia-war-2022/tanks/2022-05-21+10%3A00%3A00) | 1278 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/321331463512646) |

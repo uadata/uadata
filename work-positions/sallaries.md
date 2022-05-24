@@ -1,6 +1,6 @@
 # Середня зарплатня вакансій
 ### Графік
-[ ![Графік: Статистика вакансій в Україні / Середня зарплатня вакансій](https://uadata.net/screen?459249&u=%2Fwork-positions%2Fsallaries) ](https://uadata.net/work-positions/sallaries)
+[ ![Графік: Статистика вакансій в Україні / Середня зарплатня вакансій](https://uadata.net/screen?459273&u=%2Fwork-positions%2Fsallaries) ](https://uadata.net/work-positions/sallaries)
 
 ### Історія значень
 | Дата | Значення | Джерело |

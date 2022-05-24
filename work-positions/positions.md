@@ -1,6 +1,6 @@
 # Кількість вакансій по професіях
 ### Графік
-[ ![Графік: Статистика вакансій в Україні / Кількість вакансій по професіях](https://uadata.net/screen?459249&u=%2Fwork-positions%2Fpositions) ](https://uadata.net/work-positions/positions)
+[ ![Графік: Статистика вакансій в Україні / Кількість вакансій по професіях](https://uadata.net/screen?459273&u=%2Fwork-positions%2Fpositions) ](https://uadata.net/work-positions/positions)
 
 ### Історія значень
 | Дата | Значення | Джерело |
