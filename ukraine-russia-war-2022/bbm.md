@@ -1,10 +1,11 @@
 # Втрати бойових машин РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин РФ](https://uadata.net/screen?459273&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати бойових машин РФ](https://uadata.net/screen?459297&u=%2Fukraine-russia-war-2022%2Fbbm) ](https://uadata.net/ukraine-russia-war-2022/bbm)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-25](https://uadata.net/ukraine-russia-war-2022/bbm/2022-05-25+10%3A00%3A00) | 3213 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/324046629907796) |
 | [2022-05-24](https://uadata.net/ukraine-russia-war-2022/bbm/2022-05-24+10%3A00%3A00) | 3194 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/323330949979364) |
 | [2022-05-23](https://uadata.net/ukraine-russia-war-2022/bbm/2022-05-23+10%3A00%3A00) | 3166 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/322634696715656) |
 | [2022-05-22](https://uadata.net/ukraine-russia-war-2022/bbm/2022-05-22+10%3A00%3A00) | 3141 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/322008163444976) |

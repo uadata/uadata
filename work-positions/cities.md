@@ -1,6 +1,6 @@
 # Кількість вакансій по містах
 ### Графік
-[ ![Графік: Статистика вакансій в Україні / Кількість вакансій по містах](https://uadata.net/screen?459273&u=%2Fwork-positions%2Fcities) ](https://uadata.net/work-positions/cities)
+[ ![Графік: Статистика вакансій в Україні / Кількість вакансій по містах](https://uadata.net/screen?459297&u=%2Fwork-positions%2Fcities) ](https://uadata.net/work-positions/cities)
 
 ### Історія значень
 | Дата | Значення | Джерело |

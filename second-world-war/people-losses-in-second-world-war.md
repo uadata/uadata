@@ -1,6 +1,6 @@
 # Втрати мирного населення країн світу
 ### Графік
-[ ![Графік: Друга Світова Війна 1939 — 1945 років / Втрати мирного населення країн світу](https://uadata.net/screen?459273&u=%2Fsecond-world-war%2Fpeople-losses-in-second-world-war) ](https://uadata.net/second-world-war/people-losses-in-second-world-war)
+[ ![Графік: Друга Світова Війна 1939 — 1945 років / Втрати мирного населення країн світу](https://uadata.net/screen?459297&u=%2Fsecond-world-war%2Fpeople-losses-in-second-world-war) ](https://uadata.net/second-world-war/people-losses-in-second-world-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |

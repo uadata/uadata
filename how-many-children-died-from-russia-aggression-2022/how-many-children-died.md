@@ -1,10 +1,12 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459273&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459297&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-25](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-25+07%3A59%3A41) | 238 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-238-ditei-zaginulo-v-ukrayini-vnaslidok-zbroinoyi-agresiyi-rf) |
+| [2022-05-24](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-24+11%3A20%3A03) | 234 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-234-ditini-zaginuli-v-ukrayini-vnaslidok-zbroinoyi-agresiyi-rf) |
 | [2022-05-23](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-23+07%3A12%3A00) | 232 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-232-ditini-8371) |
 | [2022-05-22](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-22+06%3A36%3A24) | 232 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-232-ditini-3) |
 | [2022-05-21](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-21+07%3A08%3A27) | 232 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-232-ditini-2) |
