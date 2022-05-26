@@ -1,6 +1,6 @@
 # Втрати особового складу армій світу
 ### Графік
-[ ![Графік: Друга Світова Війна 1939 — 1945 років / Втрати особового складу армій світу](https://uadata.net/screen?459297&u=%2Fsecond-world-war%2Farmy-loses-by-country-in-second-world-war) ](https://uadata.net/second-world-war/army-loses-by-country-in-second-world-war)
+[ ![Графік: Друга Світова Війна 1939 — 1945 років / Втрати особового складу армій світу](https://uadata.net/screen?459321&u=%2Fsecond-world-war%2Farmy-loses-by-country-in-second-world-war) ](https://uadata.net/second-world-war/army-loses-by-country-in-second-world-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |
