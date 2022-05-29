@@ -1,10 +1,11 @@
 # Втрати особового складу РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу РФ](https://uadata.net/screen?459369&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати особового складу РФ](https://uadata.net/screen?459393&u=%2Fukraine-russia-war-2022%2Fpeople) ](https://uadata.net/ukraine-russia-war-2022/people)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-29](https://uadata.net/ukraine-russia-war-2022/people/2022-05-29+10%3A00%3A00) | 30150 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/326713502974442) |
 | [2022-05-28](https://uadata.net/ukraine-russia-war-2022/people/2022-05-28+10%3A00%3A00) | 30000 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/326058036373322) |
 | [2022-05-27](https://uadata.net/ukraine-russia-war-2022/people/2022-05-27+10%3A00%3A00) | 29750 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/325393826439743) |
 | [2022-05-26](https://uadata.net/ukraine-russia-war-2022/people/2022-05-26+10%3A00%3A00) | 29600 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/324733996505726) |
