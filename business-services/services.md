@@ -1,6 +1,6 @@
 # Оголошення про послуги
 ### Графік
-[ ![Графік: Приватні послуги в Україні / Оголошення про послуги](https://uadata.net/screen?459393&u=%2Fbusiness-services%2Fservices) ](https://uadata.net/business-services/services)
+[ ![Графік: Приватні послуги в Україні / Оголошення про послуги](https://uadata.net/screen?459417&u=%2Fbusiness-services%2Fservices) ](https://uadata.net/business-services/services)
 
 ### Історія значень
 | Дата | Значення | Джерело |

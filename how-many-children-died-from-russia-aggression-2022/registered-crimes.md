@@ -1,10 +1,11 @@
 # Зареєстровані злочини РФ
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?459393&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Зареєстровані злочини РФ](https://uadata.net/screen?459417&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fregistered-crimes) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-30](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-05-30+08%3A32%3A08) | 14594 | [відкрити](https://www.gp.gov.ua/storage/uploads/ce92ebd2-912a-400f-adab-e10e13d44ea4/warcrime-30052022ua.jpg) |
 | [2022-05-29](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-05-29+08%3A55%3A06) | 14513 | [відкрити](https://www.gp.gov.ua/storage/uploads/3db0a616-eec0-4d70-a8cb-142d6a129788/warcrime-29052022ua.jpg) |
 | [2022-05-28](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-05-28+11%3A05%3A25) | 14388 | [відкрити](https://www.gp.gov.ua/storage/uploads/e38ee9d0-f7b7-4517-a995-917e5d6e7e0d/warcrime-28052022ua.jpg) |
 | [2022-05-27](https://uadata.net/how-many-children-died-from-russia-aggression-2022/registered-crimes/2022-05-27+17%3A21%3A07) | 14193 | [відкрити](https://www.gp.gov.ua/storage/uploads/6295eb8f-a960-468d-a2cd-6a2e6a4310d0/warcrime-27052022ua.jpg) |

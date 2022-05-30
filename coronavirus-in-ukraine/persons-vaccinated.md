@@ -1,6 +1,6 @@
 # Кількість частково вакцинованих
 ### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість частково вакцинованих](https://uadata.net/screen?459393&u=%2Fcoronavirus-in-ukraine%2Fpersons-vaccinated) ](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated)
+[ ![Графік: Статистика коронавірусу в Україні / Кількість частково вакцинованих](https://uadata.net/screen?459417&u=%2Fcoronavirus-in-ukraine%2Fpersons-vaccinated) ](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated)
 
 ### Історія значень
 | Дата | Значення | Джерело |

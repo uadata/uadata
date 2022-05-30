@@ -1,10 +1,11 @@
 # Втрати РСЗВ РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ РФ](https://uadata.net/screen?459393&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати РСЗВ РФ](https://uadata.net/screen?459417&u=%2Fukraine-russia-war-2022%2Frszv) ](https://uadata.net/ukraine-russia-war-2022/rszv)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-05-30](https://uadata.net/ukraine-russia-war-2022/rszv/2022-05-30+10%3A00%3A00) | 205 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/327404262905366) |
 | [2022-05-29](https://uadata.net/ukraine-russia-war-2022/rszv/2022-05-29+10%3A00%3A00) | 203 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/326713502974442) |
 | [2022-05-28](https://uadata.net/ukraine-russia-war-2022/rszv/2022-05-28+10%3A00%3A00) | 203 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/326058036373322) |
 | [2022-05-27](https://uadata.net/ukraine-russia-war-2022/rszv/2022-05-27+10%3A00%3A00) | 201 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/325393826439743) |
