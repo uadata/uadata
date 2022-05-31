@@ -1,6 +1,6 @@
 # Частка віддалених вакансій
 ### Графік
-[ ![Графік: Статистика вакансій в Україні / Частка віддалених вакансій](https://uadata.net/screen?459417&u=%2Fwork-positions%2Fremote) ](https://uadata.net/work-positions/remote)
+[ ![Графік: Статистика вакансій в Україні / Частка віддалених вакансій](https://uadata.net/screen?459441&u=%2Fwork-positions%2Fremote) ](https://uadata.net/work-positions/remote)
 
 ### Історія значень
 | Дата | Значення | Джерело |
