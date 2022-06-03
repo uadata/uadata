@@ -1,10 +1,12 @@
 # Скільки дітей загинуло
 ### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459489&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
+[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459513&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-06-03](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-06-03+08%3A24%3A31) | 261 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-261-ditina-2) |
+| [2022-06-02](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-06-02+11%3A36%3A15) | 261 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-261-ditina) |
 | [2022-06-01](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-06-01+06%3A44%3A26) | 243 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-243-ditini-3) |
 | [2022-05-31](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-31+09%3A41%3A16) | 243 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-243-ditini-2) |
 | [2022-05-30](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-05-30+08%3A32%3A26) | 243 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-243-ditini) |
