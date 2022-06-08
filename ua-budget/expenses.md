@@ -1,6 +1,6 @@
 # Витрати бюджету
 ### Графік
-[ ![Графік: Державний бюджет України / Витрати бюджету](https://uadata.net/screen?459609&u=%2Fua-budget%2Fexpenses) ](https://uadata.net/ua-budget/expenses)
+[ ![Графік: Державний бюджет України / Витрати бюджету](https://uadata.net/screen?459633&u=%2Fua-budget%2Fexpenses) ](https://uadata.net/ua-budget/expenses)
 
 ### Історія значень
 | Дата | Значення | Джерело |

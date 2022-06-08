@@ -1,6 +1,6 @@
 # Втрати гелікоптерів СРСР
 ### Графік
-[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати гелікоптерів СРСР](https://uadata.net/screen?459609&u=%2Fafgan-war-1979-1989%2Fsoviet-helicopters-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war)
+[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати гелікоптерів СРСР](https://uadata.net/screen?459633&u=%2Fafgan-war-1979-1989%2Fsoviet-helicopters-losses-in-afgan-war) ](https://uadata.net/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war)
 
 ### Історія значень
 | Дата | Значення | Джерело |
