@@ -1,10 +1,11 @@
 # Втрати артилерійських систем РФ
 ### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати артилерійських систем РФ](https://uadata.net/screen?459633&u=%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
+[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати артилерійських систем РФ](https://uadata.net/screen?459657&u=%2Fukraine-russia-war-2022%2Fartilery) ](https://uadata.net/ukraine-russia-war-2022/artilery)
 
 ### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
+| [2022-06-09](https://uadata.net/ukraine-russia-war-2022/artilery/2022-06-09+10%3A00%3A00) | 711 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/334075962238196) |
 | [2022-06-08](https://uadata.net/ukraine-russia-war-2022/artilery/2022-06-08+10%3A00%3A00) | 703 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/333425578969901) |
 | [2022-06-07](https://uadata.net/ukraine-russia-war-2022/artilery/2022-06-07+10%3A00%3A00) | 694 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/332786695700456) |
 | [2022-06-06](https://uadata.net/ukraine-russia-war-2022/artilery/2022-06-06+10%3A00%3A00) | 690 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/332091365769989) |
