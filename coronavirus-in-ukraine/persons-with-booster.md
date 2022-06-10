@@ -1,8 +1,4 @@
 # Вакциновані бустерною дозою
-### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Вакциновані бустерною дозою](https://uadata.net/screen?459681&u=%2Fcoronavirus-in-ukraine%2Fpersons-with-booster) ](https://uadata.net/coronavirus-in-ukraine/persons-with-booster)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-02-27](https://uadata.net/coronavirus-in-ukraine/persons-with-booster/2022-02-27+00%3A00%3A00) | 741197 | [відкрити](https://covid19.who.int/data) |

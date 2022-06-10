@@ -1,8 +1,4 @@
 # Вакансії ІТ фахівців
-### Графік
-[ ![Графік: ІТ та розробка софту в Україні / Вакансії ІТ фахівців](https://uadata.net/screen?459681&u=%2Fit-industry%2Fprogramming-languages) ](https://uadata.net/it-industry/programming-languages)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 ### API

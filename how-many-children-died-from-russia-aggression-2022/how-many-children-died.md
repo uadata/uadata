@@ -1,8 +1,4 @@
 # Скільки дітей загинуло
-### Графік
-[ ![Графік: Втрати України через агрессію і злочини РФ в 2022 році / Скільки дітей загинуло](https://uadata.net/screen?459681&u=%2Fhow-many-children-died-from-russia-aggression-2022%2Fhow-many-children-died) ](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-06-03](https://uadata.net/how-many-children-died-from-russia-aggression-2022/how-many-children-died/2022-06-03+08%3A24%3A31) | 261 | [відкрити](https://gp.gov.ua/ua/posts/yuvenalni-prokurori-vnaslidok-zbroinoyi-agresiyi-rf-v-ukrayini-zaginuli-261-ditina-2) |

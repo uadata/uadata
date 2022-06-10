@@ -1,8 +1,4 @@
 # Кількість частково вакцинованих
-### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість частково вакцинованих](https://uadata.net/screen?459681&u=%2Fcoronavirus-in-ukraine%2Fpersons-vaccinated) ](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-02-27](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated/2022-02-27+00%3A00%3A00) | 15774300 | [відкрити](https://covid19.who.int/data) |

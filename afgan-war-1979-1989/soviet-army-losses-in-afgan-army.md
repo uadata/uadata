@@ -1,8 +1,4 @@
 # Втрати особового складу СРСР
-### Графік
-[ ![Графік: Війна в Афганістані 1979 — 1989 років / Втрати особового складу СРСР](https://uadata.net/screen?459681&u=%2Fafgan-war-1979-1989%2Fsoviet-army-losses-in-afgan-army) ](https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [1989-01-01](https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army/1989-01-01+00%3A00%3A00) | 53 | [відкрити](https://uk.wikipedia.org/wiki/%D0%92%D1%82%D1%80%D0%B0%D1%82%D0%B8_%D0%B2_%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%B2%D1%96%D0%B9%D0%BD%D1%96_(1979%E2%80%941989)#%D0%92%D1%82%D1%80%D0%B0%D1%82%D0%B8_%D0%BC%D0%BE%D0%B4%D0%B6%D0%B0%D1%85%D0%B5%D0%B4%D1%96%D0%B2) |

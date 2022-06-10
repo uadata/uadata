@@ -1,8 +1,4 @@
 # Кількість випадків COVID-19
-### Графік
-[ ![Графік: Статистика коронавірусу в Україні / Кількість випадків COVID-19](https://uadata.net/screen?459681&u=%2Fcoronavirus-in-ukraine%2Ftotal-cases) ](https://uadata.net/coronavirus-in-ukraine/total-cases)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-05-13](https://uadata.net/coronavirus-in-ukraine/total-cases/2022-05-13+00%3A00%3A00) | 0 | [відкрити](https://covid19.who.int/data) |

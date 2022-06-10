@@ -1,8 +1,4 @@
 # Втрати автомобільної техніки РФ
-### Графік
-[ ![Графік: Втрати армії РФ у війні проти України 2022 року / Втрати автомобільної техніки РФ](https://uadata.net/screen?459681&u=%2Fukraine-russia-war-2022%2Fauto) ](https://uadata.net/ukraine-russia-war-2022/auto)
-
-### Історія значень
 | Дата | Значення | Джерело |
 |---|---|---|
 | [2022-06-10](https://uadata.net/ukraine-russia-war-2022/auto/2022-06-10+10%3A00%3A00) | 2438 | [відкрити](https://facebook.com/MinistryofDefence.UA/posts/334753235503802) |
