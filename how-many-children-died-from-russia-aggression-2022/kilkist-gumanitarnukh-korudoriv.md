@@ -1,27 +1,27 @@
-# Кількість гуманітарних коридорів
+# [Кількість гуманітарних коридорів](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-04-23](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-23+11%3A26%3A42) | 1 | [відкрити](https://www.facebook.com/100005295963148/posts/1889203764599471/) |
-| [2022-04-22](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-22+12%3A18%3A42) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1888398301346684/) |
-| [2022-04-21](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-21+14%3A33%3A52) | 1 | [відкрити](https://www.facebook.com/100005295963148/posts/1887714261415088/) |
-| [2022-04-20](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-20+12%3A57%3A14) | 1 | [відкрити](https://www.facebook.com/100005295963148/posts/1886999961486518/) |
-| [2022-04-19](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-19+11%3A06%3A31) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1886327514887096/) |
-| [2022-04-18](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-18+11%3A17%3A22) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1885689634950884/) |
-| [2022-04-17](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-17+11%3A18%3A04) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1884990245020823/) |
-| [2022-04-16](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-16+13%3A42%3A25) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1884169315102916/) |
-| [2022-04-15](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-15+09%3A59%3A58) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1883490918504089/) |
-| [2022-04-14](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-14+12%3A27%3A25) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1882795368573644/) |
-| [2022-04-13](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-13+12%3A40%3A35) | 0 | [відкрити](https://www.facebook.com/100005295963148/posts/1882091048644076/) |
-| [2022-04-12](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-12+12%3A11%3A06) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1881401722046342/) |
-| [2022-04-11](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-11+11%3A52%3A08) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1880740338779147/?d=n) |
-| [2022-04-10](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-10+14%3A01%3A41) | 9 | [відкрити](https://www.facebook.com/100005295963148/posts/1880065888846592/) |
-| [2022-04-09](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-09+12%3A44%3A45) | 10 | [відкрити](https://www.facebook.com/100005295963148/posts/1879318632254651/?d=n) |
-| [2022-04-08](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-08+12%3A46%3A31) | 10 | [відкрити](https://www.facebook.com/100005295963148/posts/1878612722325242/?d=n) |
-| [2022-04-07](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-07+12%3A47%3A24) | 10 | [відкрити](https://www.facebook.com/100005295963148/posts/1877936655726182/?d=n) |
-| [2022-04-06](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-06+14%3A04%3A25) | 11 | [відкрити](https://www.facebook.com/100005295963148/posts/1877284279124753/) |
-| [2022-04-05](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-05+14%3A06%3A10) | 7 | [відкрити](https://m.facebook.com/story.php?story_fbid=1876579232528591&id=100005295963148) |
-| [2022-04-02](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-02+14%3A11%3A32) | 7 | [відкрити](https://m.facebook.com/story.php?story_fbid=1874490972737417&id=100005295963148) |
-| [2022-04-01](https://uadata.net/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv/2022-04-01+14%3A11%3A45) | 9 | [відкрити](https://m.facebook.com/story.php?story_fbid=1873931929459988&id=100005295963148) |
+| 2022-04-23 | 1 | https://www.facebook.com/100005295963148/posts/1889203764599471/ |
+| 2022-04-22 | 0 | https://www.facebook.com/100005295963148/posts/1888398301346684/ |
+| 2022-04-21 | 1 | https://www.facebook.com/100005295963148/posts/1887714261415088/ |
+| 2022-04-20 | 1 | https://www.facebook.com/100005295963148/posts/1886999961486518/ |
+| 2022-04-19 | 0 | https://www.facebook.com/100005295963148/posts/1886327514887096/ |
+| 2022-04-18 | 0 | https://www.facebook.com/100005295963148/posts/1885689634950884/ |
+| 2022-04-17 | 0 | https://www.facebook.com/100005295963148/posts/1884990245020823/ |
+| 2022-04-16 | 9 | https://www.facebook.com/100005295963148/posts/1884169315102916/ |
+| 2022-04-15 | 9 | https://www.facebook.com/100005295963148/posts/1883490918504089/ |
+| 2022-04-14 | 9 | https://www.facebook.com/100005295963148/posts/1882795368573644/ |
+| 2022-04-13 | 0 | https://www.facebook.com/100005295963148/posts/1882091048644076/ |
+| 2022-04-12 | 9 | https://www.facebook.com/100005295963148/posts/1881401722046342/ |
+| 2022-04-11 | 9 | https://www.facebook.com/100005295963148/posts/1880740338779147/?d=n |
+| 2022-04-10 | 9 | https://www.facebook.com/100005295963148/posts/1880065888846592/ |
+| 2022-04-09 | 10 | https://www.facebook.com/100005295963148/posts/1879318632254651/?d=n |
+| 2022-04-08 | 10 | https://www.facebook.com/100005295963148/posts/1878612722325242/?d=n |
+| 2022-04-07 | 10 | https://www.facebook.com/100005295963148/posts/1877936655726182/?d=n |
+| 2022-04-06 | 11 | https://www.facebook.com/100005295963148/posts/1877284279124753/ |
+| 2022-04-05 | 7 | https://m.facebook.com/story.php?story_fbid=1876579232528591&id=100005295963148 |
+| 2022-04-02 | 7 | https://m.facebook.com/story.php?story_fbid=1874490972737417&id=100005295963148 |
+| 2022-04-01 | 9 | https://m.facebook.com/story.php?story_fbid=1873931929459988&id=100005295963148 |
 ### API
 Щоб отримати ці дані по API:
 ```

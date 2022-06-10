@@ -1,7 +1,7 @@
-# Кількість повністю вакцинованих
+# [Кількість повністю вакцинованих](https://uadata.net/coronavirus-in-ukraine/persons-fully-vaccinated)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-02-27](https://uadata.net/coronavirus-in-ukraine/persons-fully-vaccinated/2022-02-27+00%3A00%3A00) | 15153577 | [відкрити](https://covid19.who.int/data) |
+| 2022-02-27 | 15153577 | https://covid19.who.int/data |
 ### API
 Щоб отримати ці дані по API:
 ```

@@ -1,7 +1,7 @@
-# Кількість частково вакцинованих
+# [Кількість частково вакцинованих](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-02-27](https://uadata.net/coronavirus-in-ukraine/persons-vaccinated/2022-02-27+00%3A00%3A00) | 15774300 | [відкрити](https://covid19.who.int/data) |
+| 2022-02-27 | 15774300 | https://covid19.who.int/data |
 ### API
 Щоб отримати ці дані по API:
 ```

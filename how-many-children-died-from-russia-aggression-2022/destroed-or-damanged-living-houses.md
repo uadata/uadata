@@ -1,7 +1,7 @@
-# Пошкоджені та знищені житлові будинки
+# [Пошкоджені та знищені житлові будинки](https://uadata.net/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-04-03](https://uadata.net/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses/2022-04-03+17%3A57%3A22) | 6800 | [відкрити](https://www.kmu.gov.ua/news/oleksij-chernishov-v-ukrayini-znishcheno-abo-poshkodzheno-blizko-6800-zhitlovih-budinkiv-vnaslidok-vijni) |
+| 2022-04-03 | 6800 | https://www.kmu.gov.ua/news/oleksij-chernishov-v-ukrayini-znishcheno-abo-poshkodzheno-blizko-6800-zhitlovih-budinkiv-vnaslidok-vijni |
 ### API
 Щоб отримати ці дані по API:
 ```

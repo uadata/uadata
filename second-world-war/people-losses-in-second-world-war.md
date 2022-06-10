@@ -1,4 +1,4 @@
-# Втрати мирного населення країн світу
+# [Втрати мирного населення країн світу](https://uadata.net/second-world-war/people-losses-in-second-world-war)
 | Дата | Значення | Джерело |
 |---|---|---|
 ### API

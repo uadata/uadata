@@ -1,4 +1,4 @@
-# Фінансові втрати країн світу
+# [Фінансові втрати країн світу](https://uadata.net/second-world-war/financial-losses-in-second-world-war)
 | Дата | Значення | Джерело |
 |---|---|---|
 ### API

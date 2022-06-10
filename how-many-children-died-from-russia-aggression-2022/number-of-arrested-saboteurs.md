@@ -1,7 +1,7 @@
-# Кількість затриманих диверсантів
+# [Кількість затриманих диверсантів](https://uadata.net/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-04-03](https://uadata.net/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs/2022-04-03+17%3A40%3A01) | 600 | [відкрити](https://t.me/mvs_ukraine/10769) |
+| 2022-04-03 | 600 | https://t.me/mvs_ukraine/10769 |
 ### API
 Щоб отримати ці дані по API:
 ```

@@ -1,7 +1,7 @@
-# Вакциновані бустерною дозою
+# [Вакциновані бустерною дозою](https://uadata.net/coronavirus-in-ukraine/persons-with-booster)
 | Дата | Значення | Джерело |
 |---|---|---|
-| [2022-02-27](https://uadata.net/coronavirus-in-ukraine/persons-with-booster/2022-02-27+00%3A00%3A00) | 741197 | [відкрити](https://covid19.who.int/data) |
+| 2022-02-27 | 741197 | https://covid19.who.int/data |
 ### API
 Щоб отримати ці дані по API:
 ```

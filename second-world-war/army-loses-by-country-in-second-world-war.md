@@ -1,4 +1,4 @@
-# Втрати особового складу армій світу
+# [Втрати особового складу армій світу](https://uadata.net/second-world-war/army-loses-by-country-in-second-world-war)
 | Дата | Значення | Джерело |
 |---|---|---|
 ### API
