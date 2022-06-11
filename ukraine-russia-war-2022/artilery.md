@@ -1,6 +1,7 @@
-# [Втрати артилерійських систем РФ](https://uadata.net/ukraine-russia-war-2022/artilery)
+# [Артилерійські системи](https://uadata.net/ukraine-russia-war-2022/artilery)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-11 | 712 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 712 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 711 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
 | 2022-06-08 | 703 | https://facebook.com/MinistryofDefence.UA/posts/333425578969901 |
@@ -111,6 +112,8 @@ curl https://uadata.net/ukraine-russia-war-2022/artilery.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0420\u0424",
-    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0430\u0440\u043c\u0456\u0457 \u0420\u0424 \u043f\u0456\u0434 \u0447\u0430\u0441 \u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u...
+    "title": "\u0410\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0439\u0441\u044c\u043a\u0456 \u0441\u0438\u0441\u0442\u0435\u043c\u0438",
+    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0440\u0442\u0438\u043b\u0435\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
+    "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/artilery",
+    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022....
 ```

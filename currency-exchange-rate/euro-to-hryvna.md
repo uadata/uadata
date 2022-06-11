@@ -1,6 +1,7 @@
 # [Курс євро до гривні](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-11 | 31.3934 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-10 | 31.3934 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-09 | 31.411 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-08 | 31.1901 | https://bank.gov.ua/ua/markets/exchangerates |

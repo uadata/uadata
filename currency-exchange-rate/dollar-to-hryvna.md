@@ -1,6 +1,7 @@
 # [Курс долара до гривні](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-11 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-10 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-09 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-08 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
