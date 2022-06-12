@@ -1,4 +1,4 @@
-# [Кількість випадків COVID-19](https://uadata.net/coronavirus-in-ukraine/total-cases)
+# [Випадки захворювань](https://uadata.net/coronavirus-in-ukraine/total-cases)
 | Дата | Значення | Джерело |
 |---|---|---|
 | 2022-05-13 | 0 | https://covid19.who.int/data |
@@ -871,8 +871,10 @@ curl https://uadata.net/coronavirus-in-ukraine/total-cases.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 COVID-19",
+    "title": "\u0412\u0438\u043f\u0430\u0434\u043a\u0438 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u044c",
     "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
     "url": "https:\/\/uadata.net\/coronavirus-in-ukraine\/total-cases",
-    "hub_api_url": "https:\/\/uadata.net\/c...
+    "data": [
+        {
+            "date": "2...
 ```

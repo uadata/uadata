@@ -1,6 +1,7 @@
 # [РСЗВ](https://uadata.net/ukraine-russia-war-2022/rszv)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 226 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 222 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 222 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 213 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
@@ -115,6 +116,5 @@ curl https://uadata.net/ukraine-russia-war-2022/rszv.json
     "title": "\u0420\u0421\u0417\u0412",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0440\u0430\u043a\u0435\u0442\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0437\u0430\u043b\u043f\u043e\u0432\u043e\u0433\u043e \u0432\u043e\u0433\u043d\u044e \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/rszv",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/...
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D1%81%D0%B8...
 ```

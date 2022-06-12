@@ -1,4 +1,4 @@
-# [Втрати авіації СРСР](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
+# [Втрати літаків](https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war)
 | Дата | Значення | Джерело |
 |---|---|---|
 | 1989-03-06 | 1 | https://en.wikipedia.org/wiki/List_of_Soviet_aircraft_losses_during_the_Soviet%E2%80%93Afghan_War |
@@ -218,8 +218,8 @@ curl https://uadata.net/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war.
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0432\u0456\u0430\u0446\u0456\u0457 \u0421\u0420\u0421\u0420",
-    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0430\u0432\u0456\u0430\u0446\u0456\u0457 \u0421\u0420\u0421\u0420 \u0432 \u0410\u0444\u0433\u0430\u043d\u0441\u044c\u043a\u0456\u0439 \u0432\u0456\u0439\u043d\u0456 (1979 \u2014 1989)",
+    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043b\u0456\u0442\u0430\u043a\u0456\u0432",
+    "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043b\u0456\u0442\u0430\u043a\u0456\u0432 \u0421\u0420\u0421\u0420 \u0432 \u0410\u0444\u0433\u0430\u043d\u0441\u044c\u043a\u0456\u0439 \u0432\u0456\u0439\u043d\u0456 (1979 \u2014 1989)",
     "url": "https:\/\/uadata.net\/afgan-war-1979-1989\/soviet-aircraft-losses-in-afgan-war",
-    "hub_api_url": "https:\/\/uadata.net...
+    "ref_url": "https:\/\/en.wikipedia.org\/wiki\/List_of_Soviet_...
 ```

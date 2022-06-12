@@ -1,6 +1,7 @@
 # [ППО](https://uadata.net/ukraine-russia-war-2022/ppo)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 97 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 97 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 97 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 96 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
@@ -116,6 +117,5 @@ curl https://uadata.net/ukraine-russia-war-2022/ppo.json
     "title": "\u041f\u041f\u041e",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0441\u0438\u0441\u0442\u0435\u043c \u043f\u0440\u043e\u0442\u0438\u043f\u043e\u0432\u0456\u0442\u0440\u044f\u043d\u043e\u0457 \u043e\u0431\u043e\u0440\u043e\u043d\u0438 \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/ppo",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D...
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0...
 ```

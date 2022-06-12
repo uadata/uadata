@@ -1,6 +1,7 @@
 # [Особовий склад](https://uadata.net/ukraine-russia-war-2022/people)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 32150 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 32050 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 31900 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 31700 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
@@ -117,6 +118,5 @@ curl https://uadata.net/ukraine-russia-war-2022/people.json
     "title": "\u041e\u0441\u043e\u0431\u043e\u0432\u0438\u0439 \u0441\u043a\u043b\u0430\u0434",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/people",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%97%D0%B1%D1%8...
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%97%D0%B1%D1%80%D0%BE%D0%B9%D0%BD%D1%96_%D1%81%D0%B8%D0%BB%D0%B8_%D0%A0%D0%BE%D1%81%D1%...
 ```

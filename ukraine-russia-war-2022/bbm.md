@@ -1,6 +1,7 @@
 # [Бойові машини](https://uadata.net/ukraine-russia-war-2022/bbm)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 3484 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 3466 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 3450 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 3438 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
@@ -118,6 +119,5 @@ curl https://uadata.net/ukraine-russia-war-2022/bbm.json
     "title": "\u0411\u043e\u0439\u043e\u0432\u0456 \u043c\u0430\u0448\u0438\u043d\u0438",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u0431\u0440\u043e\u043d\u044c\u043e\u0432\u0430\u043d\u0438\u0445 \u043c\u0430\u0448\u0438\u043d \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/bbm",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/u...
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%...
 ```

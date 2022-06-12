@@ -1,6 +1,7 @@
 # [Курс євро до гривні](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 31.3934 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-11 | 31.3934 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-10 | 31.3934 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-09 | 31.411 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6639,6 +6640,8 @@ curl https://uadata.net/currency-exchange-rate/euro-to-hryvna.json
     "title": "\u041a\u0443\u0440\u0441 \u0454\u0432\u0440\u043e \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
     "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u043a\u0443\u0440\u0441\u0443 \u0454\u0432\u0440\u043e \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
     "url": "https:\/\/uadata.net\/currency-exchange-rate\/euro-to-hryvna",
-    "hub_api_url": "https:\/\/uadata.net\/currency-exchange-rate.json",
-    "ref_url": "https:\/\/bank.gov.ua\/ua\/mark...
+    "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
+    "data": [
+        {
+            "date": "2022-0...
 ```

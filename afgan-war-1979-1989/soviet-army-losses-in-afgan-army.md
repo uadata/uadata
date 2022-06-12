@@ -1,4 +1,4 @@
-# [Втрати особового складу СРСР](https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army)
+# [Особовий склад амрії](https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army)
 | Дата | Значення | Джерело |
 |---|---|---|
 | 1989-01-01 | 53 | https://uk.wikipedia.org/wiki/%D0%92%D1%82%D1%80%D0%B0%D1%82%D0%B8_%D0%B2_%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%B2%D1%96%D0%B9%D0%BD%D1%96_(1979%E2%80%941989)#%D0%92%D1%82%D1%80%D0%B0%D1%82%D0%B8_%D0%BC%D0%BE%D0%B4%D0%B6%D0%B0%D1%85%D0%B5%D0%B4%D1%96%D0%B2 |
@@ -20,7 +20,7 @@ curl https://uadata.net/afgan-war-1979-1989/soviet-army-losses-in-afgan-army.jso
 #### Приклад відповіді 
 ```
 {
-    "title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0421\u0420\u0421\u0420",
+    "title": "\u041e\u0441\u043e\u0431\u043e\u0432\u0438\u0439 \u0441\u043a\u043b\u0430\u0434 \u0430\u043c\u0440\u0456\u0457",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u043e\u0441\u043e\u0431\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0430\u0440\u043c\u0456\u0457 \u0421\u0420\u0421\u0420 \u0432 \u0410\u0444\u0433\u0430\u043d\u0441\u044c\u043a\u0456\u0439 \u0432\u0456\u0439\u043d\u0456 (1979 \u2014 1989)",
-    ...
+    "url": "https:\/\/uadata.net\/afgan-war-197...
 ```

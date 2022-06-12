@@ -1,6 +1,7 @@
-# [Курс долара до гривні](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
+# [Курс долара](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-11 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-10 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-09 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6636,9 +6637,12 @@ curl https://uadata.net/currency-exchange-rate/dollar-to-hryvna.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u041a\u0443\u0440\u0441 \u0434\u043e\u043b\u0430\u0440\u0430 \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
+    "title": "\u041a\u0443\u0440\u0441 \u0434\u043e\u043b\u0430\u0440\u0430",
     "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u043a\u0443\u0440\u0441\u0443 \u0434\u043e\u043b\u0430\u0440\u0430 \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
     "url": "https:\/\/uadata.net\/currency-exchange-rate\/dollar-to-hryvna",
-    "hub_api_url": "https:\/\/uadata.net\/currency-exchange-rate.json",
-    "ref_url": "https...
+    "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
+    "data": [
+        {
+            "date": "2022-06-12",
+            "val"...
 ```

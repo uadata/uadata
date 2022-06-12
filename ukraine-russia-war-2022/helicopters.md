@@ -1,6 +1,7 @@
 # [Гелікоптери](https://uadata.net/ukraine-russia-war-2022/helicopters)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-12 | 178 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 178 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 178 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
 | 2022-06-09 | 178 | https://facebook.com/MinistryofDefence.UA/posts/334075962238196 |
@@ -117,6 +118,6 @@ curl https://uadata.net/ukraine-russia-war-2022/helicopters.json
     "title": "\u0413\u0435\u043b\u0456\u043a\u043e\u043f\u0442\u0435\u0440\u0438",
     "long_title": "\u0412\u0442\u0440\u0430\u0442\u0438 \u0433\u0435\u043b\u0456\u043a\u043e\u043f\u0442\u0435\u0440\u0456\u0432 \u0430\u0440\u043c\u0456\u0457 \u0440\u0444",
     "url": "https:\/\/uadata.net\/ukraine-russia-war-2022\/helicopters",
-    "hub_api_url": "https:\/\/uadata.net\/ukraine-russia-war-2022.json",
-    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D...
+    "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%96%D1%82",
+    "...
 ```
