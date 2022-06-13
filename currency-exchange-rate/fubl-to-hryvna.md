@@ -1,6 +1,7 @@
 # [Курс рубля до гривні](https://uadata.net/currency-exchange-rate/fubl-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-13 | 0.50447 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-12 | 0.50479 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-11 | 0.50479 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-10 | 0.50479 | https://bank.gov.ua/ua/markets/exchangerates |

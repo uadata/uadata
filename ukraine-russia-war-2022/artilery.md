@@ -1,6 +1,7 @@
 # [Артилерійські системи](https://uadata.net/ukraine-russia-war-2022/artilery)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-13 | 718 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 715 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 712 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 712 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |

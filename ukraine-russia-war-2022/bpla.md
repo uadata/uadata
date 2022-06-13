@@ -1,6 +1,7 @@
 # [БПЛА](https://uadata.net/ukraine-russia-war-2022/bpla)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-13 | 585 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 582 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 579 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
 | 2022-06-10 | 572 | https://facebook.com/MinistryofDefence.UA/posts/334753235503802 |
@@ -68,7 +69,6 @@
 | 2022-04-09 | 112 | https://www.mil.gov.ua/news/2022/04/09/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-ponad-19-000-osib-ta-zagalom-majzhe-5-000-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/ |
 | 2022-04-08 | 112 | https://www.facebook.com/100069092624537/posts/290383523274733/ |
 | 2022-04-07 | 111 | https://www.facebook.com/GeneralStaff.ua/posts/289635890016163 |
-| 2022-04-06 | 25 | https://www.mil.gov.ua/news/2022/04/06/za-shist-tizhniv-vijni-vtrati-rosijskih-okupantiv-stanovlyat-150-litakiv-135-vertolotiv-znishheno-majzhe-700-tankiv-%E2%80%93-generalnij-shtab-zs-ukraini/ |
 | 2022-04-05 | 94 | https://www.mil.gov.ua/news/2022/04/05/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-500-osib-ta-ponad-280-litakiv-i-vertolotiv-%E2%80%92-generalnij-shtab-zs-ukraini/ |
 | 2022-04-04 | 92 | https://www.mil.gov.ua/news/2022/04/04/vtrati-rosijskih-okupantiv-stanovlyat-majzhe-650-tankiv-znishheno-330-odinicz-vorozhih-artilerijskih-sistem-%E2%80%93-generalnij-shtab-zs-ukraini/ |
 | 2022-04-03 | 89 | https://www.mil.gov.ua/news/2022/04/03/vid-pochatku-povnomasshtabnoi-vijni-proti-ukraini-rosiya-vtratila-vzhe-18-000-osib-ta-majzhe-4700-odinicz-ovt-%E2%80%92-generalnij-shtab-zs-ukraini/ |
