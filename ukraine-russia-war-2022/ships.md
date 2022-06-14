@@ -1,6 +1,7 @@
 # [Кораблі](https://uadata.net/ukraine-russia-war-2022/ships)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-14 | 13 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 13 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 13 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 13 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
@@ -116,6 +117,6 @@ curl https://uadata.net/ukraine-russia-war-2022/ships.json
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C",
     "data": [
         {
-            "date": "2022-06-13",
+            "date": "2022-06-14",
  ...
 ```

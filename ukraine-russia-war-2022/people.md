@@ -1,6 +1,7 @@
 # [Особовий склад](https://uadata.net/ukraine-russia-war-2022/people)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-14 | 32500 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 32300 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 32150 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 32050 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |

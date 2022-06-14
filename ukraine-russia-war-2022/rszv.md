@@ -1,6 +1,7 @@
 # [РСЗВ](https://uadata.net/ukraine-russia-war-2022/rszv)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-14 | 229 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 226 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 226 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
 | 2022-06-11 | 222 | https://facebook.com/MinistryofDefence.UA/posts/335406118771847 |
