@@ -1,6 +1,7 @@
 # [Летальні випадки](https://uadata.net/coronavirus-in-ukraine/totla-deaths)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-14 | 0 | https://covid19.who.int/data |
 | 2022-06-12 | 43 | https://covid19.who.int/data |
 | 2022-06-10 | 0 | https://covid19.who.int/data |
 | 2022-06-09 | 0 | https://covid19.who.int/data |

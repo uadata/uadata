@@ -1,6 +1,7 @@
 # [Автомобільна техніка](https://uadata.net/ukraine-russia-war-2022/auto)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-15 | 2485 | https://facebook.com/MinistryofDefence.UA/posts/338376168474842 |
 | 2022-06-14 | 2473 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 2460 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
 | 2022-06-12 | 2455 | https://facebook.com/MinistryofDefence.UA/posts/336451745333951 |
