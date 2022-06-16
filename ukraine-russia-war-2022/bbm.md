@@ -1,6 +1,7 @@
 # [Бойові машини](https://uadata.net/ukraine-russia-war-2022/bbm)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-16 | 3545 | https://facebook.com/MinistryofDefence.UA/posts/339025181743274 |
 | 2022-06-15 | 3528 | https://facebook.com/MinistryofDefence.UA/posts/338376168474842 |
 | 2022-06-14 | 3503 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 3492 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |

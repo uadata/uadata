@@ -1,6 +1,7 @@
 # [Танки](https://uadata.net/ukraine-russia-war-2022/tanks)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-16 | 1449 | https://facebook.com/MinistryofDefence.UA/posts/339025181743274 |
 | 2022-06-15 | 1440 | https://facebook.com/MinistryofDefence.UA/posts/338376168474842 |
 | 2022-06-14 | 1434 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 1432 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
@@ -124,7 +125,7 @@ curl https://uadata.net/ukraine-russia-war-2022/tanks.json
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%A2%D0%B0%D0%BD%D0%BA",
     "data": [
         {
-            "date": "2022-06-15",
-            "val": 1440,
-            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/338376168474...
+            "date": "2022-06-16",
+            "val": 1449,
+            "ref": "https:\/\/facebook.com\/MinistryofDefence.UA\/posts\/339025181743...
 ```

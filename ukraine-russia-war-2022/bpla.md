@@ -1,6 +1,7 @@
 # [БПЛА](https://uadata.net/ukraine-russia-war-2022/bpla)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-16 | 591 | https://facebook.com/MinistryofDefence.UA/posts/339025181743274 |
 | 2022-06-15 | 591 | https://facebook.com/MinistryofDefence.UA/posts/338376168474842 |
 | 2022-06-14 | 588 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 585 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |

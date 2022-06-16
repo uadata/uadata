@@ -1,6 +1,7 @@
 # [Літаки](https://uadata.net/ukraine-russia-war-2022/planes)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-16 | 213 | https://facebook.com/MinistryofDefence.UA/posts/339025181743274 |
 | 2022-06-15 | 213 | https://facebook.com/MinistryofDefence.UA/posts/338376168474842 |
 | 2022-06-14 | 213 | https://facebook.com/MinistryofDefence.UA/posts/337707385208387 |
 | 2022-06-13 | 213 | https://facebook.com/MinistryofDefence.UA/posts/337079711937821 |
@@ -124,7 +125,7 @@ curl https://uadata.net/ukraine-russia-war-2022/planes.json
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BB%D1%96%D1%82%D0%B0%D0%BA",
     "data": [
         {
-            "date": "2022-06-15",
+            "date": "2022-06-16",
             "val": 213,
       ...
 ```
