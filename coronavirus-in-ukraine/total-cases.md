@@ -1,6 +1,7 @@
 # [Випадки захворювань](https://uadata.net/coronavirus-in-ukraine/total-cases)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-16 | 0 | https://covid19.who.int/data |
 | 2022-06-15 | 0 | https://covid19.who.int/data |
 | 2022-06-14 | 0 | https://covid19.who.int/data |
 | 2022-06-12 | 984 | https://covid19.who.int/data |

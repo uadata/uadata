@@ -1,6 +1,7 @@
-# [Курс євро до гривні](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
+# [Курс євро](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-18 | 30.3885 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-17 | 30.3885 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-16 | 30.5962 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-15 | 30.567 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6642,11 +6643,13 @@ curl https://uadata.net/currency-exchange-rate/euro-to-hryvna.json
 #### Приклад відповіді 
 ```
 {
-    "title": "\u041a\u0443\u0440\u0441 \u0454\u0432\u0440\u043e \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
+    "title": "\u041a\u0443\u0440\u0441 \u0454\u0432\u0440\u043e",
     "long_title": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u043a\u0443\u0440\u0441\u0443 \u0454\u0432\u0440\u043e \u0434\u043e \u0433\u0440\u0438\u0432\u043d\u0456",
     "url": "https:\/\/uadata.net\/currency-exchange-rate\/euro-to-hryvna",
     "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
     "data": [
         {
-            "date": "2022-0...
+            "date": "2022-06-18",
+            "val": 30,
+            "ref": "...
 ```
