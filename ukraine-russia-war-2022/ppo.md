@@ -1,6 +1,7 @@
 # [ППО](https://uadata.net/ukraine-russia-war-2022/ppo)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-19 | 98 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02RnH9VfsRoTDVbs8rn8Nq7VXBavJJpZwTvzwWoD5bYcxWMob1rrcPbgwBibdcbNxGl |
 | 2022-06-18 | 98 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02gc6At3Fy1sUSxBrSQqS1JBdTMDjB1ybepuXa2SbvvjWG7utyt37hu5awDfXXZ61cl |
 | 2022-06-17 | 97 | https://facebook.com/MinistryofDefence.UA/posts/pfbid0373rZ1qb5GZBY23F16hJUk493pu1pEd7Ug5zQBv926dKBwwTBuU2tQWDb6yR5vVKGl |
 | 2022-06-16 | 97 | https://facebook.com/MinistryofDefence.UA/posts/339025181743274 |

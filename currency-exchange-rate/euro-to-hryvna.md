@@ -1,6 +1,7 @@
 # [Курс євро](https://uadata.net/currency-exchange-rate/euro-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-19 | 30.3885 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-18 | 30.3885 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-17 | 30.3885 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-16 | 30.5962 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6649,7 +6650,7 @@ curl https://uadata.net/currency-exchange-rate/euro-to-hryvna.json
     "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
     "data": [
         {
-            "date": "2022-06-18",
+            "date": "2022-06-19",
             "val": 30,
             "ref": "...
 ```
