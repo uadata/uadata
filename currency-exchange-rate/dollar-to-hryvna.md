@@ -1,6 +1,7 @@
 # [Курс долара](https://uadata.net/currency-exchange-rate/dollar-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-21 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-20 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-19 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-18 | 29.2549 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6651,6 +6652,6 @@ curl https://uadata.net/currency-exchange-rate/dollar-to-hryvna.json
     "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
     "data": [
         {
-            "date": "2022-06-20",
+            "date": "2022-06-21",
             "val"...
 ```
