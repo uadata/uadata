@@ -2,22 +2,22 @@
 Відкритий хаб даних про Україну для українців @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
-- [Бойові машини](/ukraine-russia-war-2022/bbm.md): 3606
+- [Бойові машини](/ukraine-russia-war-2022/bbm.md): 3614
 - [Літаки](/ukraine-russia-war-2022/planes.md): 216
 - [Танки](/ukraine-russia-war-2022/tanks.md): 1496
 - [Артилерійські системи](/ukraine-russia-war-2022/artilery.md): 752
 - [РСЗВ](/ukraine-russia-war-2022/rszv.md): 239
-- [ППО](/ukraine-russia-war-2022/ppo.md): 98
-- [Гелікоптери](/ukraine-russia-war-2022/helicopters.md): 181
-- [Автомобільна техніка](/ukraine-russia-war-2022/auto.md): 2537
+- [ППО](/ukraine-russia-war-2022/ppo.md): 99
+- [Гелікоптери](/ukraine-russia-war-2022/helicopters.md): 182
+- [Автомобільна техніка](/ukraine-russia-war-2022/auto.md): 2543
 - [Кораблі](/ukraine-russia-war-2022/ships.md): 14
-- [БПЛА](/ukraine-russia-war-2022/bpla.md): 611
-- [Особовий склад](/ukraine-russia-war-2022/people.md): 34100
+- [БПЛА](/ukraine-russia-war-2022/bpla.md): 614
+- [Особовий склад](/ukraine-russia-war-2022/people.md): 34230
 
 ## [Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Скільки дітей загинуло](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md): 261
 - [Зареєстровані злочини РФ](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md): 15446
@@ -27,14 +27,14 @@
 - [Кількість гуманітарних коридорів](/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv.md): 1
 
 ## [Війна в Афганістані 1979 — 1989 років](https://uadata.net/afgan-war-1979-1989)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Особовий склад амрії](/afgan-war-1979-1989/soviet-army-losses-in-afgan-army.md): 53
 - [Втрати літаків](/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war.md): 1
 - [Втрати гелікоптерів](/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war.md): 3
 
 ## [Статистика коронавірусу в Україні](https://uadata.net/coronavirus-in-ukraine)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Випадки захворювань](/coronavirus-in-ukraine/total-cases.md): 0
 - [Летальні випадки](/coronavirus-in-ukraine/totla-deaths.md): 0
@@ -43,26 +43,26 @@
 - [Вакциновані бустерною дозою](/coronavirus-in-ukraine/persons-with-booster.md): 741197
 
 ## [Друга Світова Війна 1939 — 1945 років](https://uadata.net/second-world-war)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Втрати особового складу армій світу](/second-world-war/army-loses-by-country-in-second-world-war.md)
 - [Втрати мирного населення країн світу](/second-world-war/people-losses-in-second-world-war.md)
 - [Фінансові втрати країн світу](/second-world-war/financial-losses-in-second-world-war.md)
 
 ## [Курси валют до гривні](https://uadata.net/currency-exchange-rate)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Курс долара](/currency-exchange-rate/dollar-to-hryvna.md): 29.2549
-- [Курс євро](/currency-exchange-rate/euro-to-hryvna.md): 30.7952
-- [Курс рубля](/currency-exchange-rate/fubl-to-hryvna.md): 0.52761
+- [Курс євро](/currency-exchange-rate/euro-to-hryvna.md): 30.861
+- [Курс рубля](/currency-exchange-rate/fubl-to-hryvna.md): 0.53894
 
 ## [Державний бюджет України](https://uadata.net/ua-budget)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Витрати бюджету](/ua-budget/expenses.md)
 
 ## [Статистика вакансій в Україні](https://uadata.net/work-positions)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Кількість вакансій по містах](/work-positions/cities.md)
 - [Кількість вакансій по професіях](/work-positions/positions.md)
@@ -70,11 +70,11 @@
 - [Частка віддалених вакансій](/work-positions/remote.md)
 
 ## [ІТ та розробка софту в Україні](https://uadata.net/it-industry)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Вакансії ІТ фахівців](/it-industry/programming-languages.md)
 
 ## [Приватні послуги в Україні](https://uadata.net/business-services)
-Оновлено **2022-06-21**
+Оновлено **2022-06-22**
 
 - [Оголошення про послуги](/business-services/services.md)

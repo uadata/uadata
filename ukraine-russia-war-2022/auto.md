@@ -1,7 +1,8 @@
 # [Автомобільна техніка](https://uadata.net/ukraine-russia-war-2022/auto)
 | Дата | Значення | Джерело |
 |---|---|---|
-| 2022-06-21 | 2537 | https://facebook.com/MinistryofDefence.UA/posts/pfbid0KyaxeYCckN8LCAWsJ1YntCGQLvhyDBqJgDzwQiLRa9WGAbBLxma3EhQWA2agC81ml |
+| 2022-06-22 | 2543 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02vabQQxhGowLu9r7JJauwbJ9kwGobtfCAR3ghkZBYuT4ejhWM1DhnBT6vnSkfGxkl |
+| 2022-06-21 | 2537 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02Pq2fqD8SbpCfMHfUBLcZhyjD6B378jeByUt717t4z4fDxVAiZn8F6n6mkdSFbzH7l |
 | 2022-06-20 | 2527 | https://facebook.com/MinistryofDefence.UA/posts/pfbid0aEk4aJvYP5b49nHXCCYJpeyAGokwDgghNZ7oGMkM5dYVPvF11fRjY8vRLTCzTaKhl |
 | 2022-06-19 | 2523 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02RnH9VfsRoTDVbs8rn8Nq7VXBavJJpZwTvzwWoD5bYcxWMob1rrcPbgwBibdcbNxGl |
 | 2022-06-18 | 2513 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02gc6At3Fy1sUSxBrSQqS1JBdTMDjB1ybepuXa2SbvvjWG7utyt37hu5awDfXXZ61cl |
