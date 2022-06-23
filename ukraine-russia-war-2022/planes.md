@@ -1,6 +1,7 @@
 # [Літаки](https://uadata.net/ukraine-russia-war-2022/planes)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-23 | 216 | https://facebook.com/MinistryofDefence.UA/posts/pfbid0B58eEbLcAgasB6qrABbSin65dEnd665Zy9Lj2apng2edeS3TZRBc83wRW75nMQvkl |
 | 2022-06-22 | 216 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02vabQQxhGowLu9r7JJauwbJ9kwGobtfCAR3ghkZBYuT4ejhWM1DhnBT6vnSkfGxkl |
 | 2022-06-21 | 216 | https://facebook.com/MinistryofDefence.UA/posts/pfbid02Pq2fqD8SbpCfMHfUBLcZhyjD6B378jeByUt717t4z4fDxVAiZn8F6n6mkdSFbzH7l |
 | 2022-06-20 | 216 | https://facebook.com/MinistryofDefence.UA/posts/pfbid0aEk4aJvYP5b49nHXCCYJpeyAGokwDgghNZ7oGMkM5dYVPvF11fRjY8vRLTCzTaKhl |
@@ -131,7 +132,7 @@ curl https://uadata.net/ukraine-russia-war-2022/planes.json
     "ref_url": "https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BB%D1%96%D1%82%D0%B0%D0%BA",
     "data": [
         {
-            "date": "2022-06-22",
+            "date": "2022-06-23",
             "val": 216,
       ...
 ```
