@@ -1,80 +1,67 @@
 # UA дата
 Відкритий хаб даних про Україну для українців @ [uadata.net](https://uadata.net/)
 
-## [Втрати армії РФ у війні проти України 2022 року](https://uadata.net/ukraine-russia-war-2022)
+## [Втрати особового складу армії рф](https://uadata.net/vtraty-rf.data)
 Оновлено **2022-06-24**
 
-- [Бойові машини](/ukraine-russia-war-2022/bbm.md): 3637
-- [Літаки](/ukraine-russia-war-2022/planes.md): 216
-- [Танки](/ukraine-russia-war-2022/tanks.md): 1507
-- [Артилерійські системи](/ukraine-russia-war-2022/artilery.md): 759
-- [РСЗВ](/ukraine-russia-war-2022/rszv.md): 241
-- [ППО](/ukraine-russia-war-2022/ppo.md): 99
-- [Гелікоптери](/ukraine-russia-war-2022/helicopters.md): 183
-- [Автомобільна техніка](/ukraine-russia-war-2022/auto.md): 2553
-- [Кораблі](/ukraine-russia-war-2022/ships.md): 14
-- [БПЛА](/ukraine-russia-war-2022/bpla.md): 622
-- [Особовий склад](/ukraine-russia-war-2022/people.md): 34530
+- [Бойові машини](/vtraty-rf:bbm.data.md): 3637
+- [Літаки](/vtraty-rf:planes.data.md): 216
+- [Танки](/vtraty-rf:tanks.data.md): 1507
+- [Артилерійські системи](/vtraty-rf:artilery.data.md): 759
+- [РСЗВ](/vtraty-rf:rszv.data.md): 241
+- [ППО](/vtraty-rf:ppo.data.md): 99
+- [Гелікоптери](/vtraty-rf:helicopters.data.md): 183
+- [Автомобільна техніка](/vtraty-rf:auto.data.md): 2553
+- [Кораблі](/vtraty-rf:ships.data.md): 14
+- [БПЛА](/vtraty-rf:bpla.data.md): 622
+- [Особовий склад](/vtraty-rf.data.md): 34530
 
-## [Втрати України через агрессію і злочини РФ в 2022 році](https://uadata.net/how-many-children-died-from-russia-aggression-2022)
+## [Скільки дітей загинуло в Україні від агресії рф](https://uadata.net/zlochiny-rf.data)
+Оновлено **2022-06-03**
+
+- [Скільки дітей загинуло](/zlochiny-rf.data.md): 261
+- [Зареєстровані злочини РФ](/zlochiny-rf:registered-crimes.data.md): 15446
+
+## [Втрати особового складу армії СРСР в Афганській війні (1979 — 1989)](https://uadata.net/vtraty-su-in-afgan.data)
+Оновлено **1989-01-01**
+
+- [Особовий склад амрії](/vtraty-su-in-afgan.data.md): 13835
+- [Втрати літаків](/vtraty-su-in-afgan:soviet-aircraft-losses-in-afgan-war.data.md): 221
+- [Втрати гелікоптерів](/vtraty-su-in-afgan:soviet-helicopters-losses-in-afgan-war.data.md): 333
+
+## [Статистика випадків коронавірусу в Україні](https://uadata.net/corona.data)
+Оновлено **2022-02-27**
+
+- [Випадки захворювань](/corona.data.md): 5015913
+- [Летальні випадки](/corona:totla-deaths.data.md): 108648
+- [Частково вакциновані](/corona:persons-vaccinated.data.md): 15774300
+- [Повністю вакциновані](/corona:persons-fully-vaccinated.data.md): 15153577
+- [Вакциновані бустерною дозою](/corona:persons-with-booster.data.md): 741197
+
+## [Статистика курсу долара до гривні](https://uadata.net/kurs-hryvni.data)
 Оновлено **2022-06-24**
 
-- [Скільки дітей загинуло](/how-many-children-died-from-russia-aggression-2022/how-many-children-died.md): 261
-- [Зареєстровані злочини РФ](/how-many-children-died-from-russia-aggression-2022/registered-crimes.md): 15446
-- [Кількість затриманих диверсантів](/how-many-children-died-from-russia-aggression-2022/number-of-arrested-saboteurs.md): 600
-- [Пошкоджені та знищені житлові будинки](/how-many-children-died-from-russia-aggression-2022/destroed-or-damanged-living-houses.md): 6800
-- [Кількість евакуйованих людей](/how-many-children-died-from-russia-aggression-2022/kilkist-evakuyovanukh.md): 1449
-- [Кількість гуманітарних коридорів](/how-many-children-died-from-russia-aggression-2022/kilkist-gumanitarnukh-korudoriv.md): 1
+- [Курс долара](/kurs-hryvni.data.md): 29.2549
+- [Курс євро](/kurs-hryvni:euro-to-hryvna.data.md): 30.7337
+- [Курс рубля](/kurs-hryvni:fubl-to-hryvna.data.md): 0.54242
 
-## [Війна в Афганістані 1979 — 1989 років](https://uadata.net/afgan-war-1979-1989)
+## [Статистика вакансій в Україні по містах](https://uadata.net/rynok-praci.data)
 Оновлено **2022-06-24**
 
-- [Особовий склад амрії](/afgan-war-1979-1989/soviet-army-losses-in-afgan-army.md): 53
-- [Втрати літаків](/afgan-war-1979-1989/soviet-aircraft-losses-in-afgan-war.md): 1
-- [Втрати гелікоптерів](/afgan-war-1979-1989/soviet-helicopters-losses-in-afgan-war.md): 3
+- [Кількість вакансій по містах](/rynok-praci.data.md): 34292
+- [Кількість вакансій по професіях](/rynok-praci:positions.data.md): 34292
 
-## [Статистика коронавірусу в Україні](https://uadata.net/coronavirus-in-ukraine)
+## [Популярні мови програмування згідно кількості вакансій в Україні](https://uadata.net/rozrobka-softu.data)
 Оновлено **2022-06-24**
 
-- [Випадки захворювань](/coronavirus-in-ukraine/total-cases.md): 0
-- [Летальні випадки](/coronavirus-in-ukraine/totla-deaths.md): 0
-- [Частково вакциновані](/coronavirus-in-ukraine/persons-vaccinated.md): 15774300
-- [Повністю вакциновані](/coronavirus-in-ukraine/persons-fully-vaccinated.md): 15153577
-- [Вакциновані бустерною дозою](/coronavirus-in-ukraine/persons-with-booster.md): 741197
+- [Мови програмування по вакансіях](/rozrobka-softu.data.md): 15414
 
-## [Друга Світова Війна 1939 — 1945 років](https://uadata.net/second-world-war)
+## [Кількість оголошень про послуги за типом в Україні](https://uadata.net/poslugy.data)
 Оновлено **2022-06-24**
 
-- [Втрати особового складу армій світу](/second-world-war/army-loses-by-country-in-second-world-war.md)
-- [Втрати мирного населення країн світу](/second-world-war/people-losses-in-second-world-war.md)
-- [Фінансові втрати країн світу](/second-world-war/financial-losses-in-second-world-war.md)
+- [Оголошення про послуги](/poslugy.data.md): 2717276
 
-## [Курси валют до гривні](https://uadata.net/currency-exchange-rate)
-Оновлено **2022-06-24**
+## [Статистика витрат бюджету України](https://uadata.net/budget.data)
+Оновлено **2021-12-31**
 
-- [Курс долара](/currency-exchange-rate/dollar-to-hryvna.md): 29.2549
-- [Курс євро](/currency-exchange-rate/euro-to-hryvna.md): 30.7337
-- [Курс рубля](/currency-exchange-rate/fubl-to-hryvna.md): 0.54242
-
-## [Державний бюджет України](https://uadata.net/ua-budget)
-Оновлено **2022-06-24**
-
-- [Витрати бюджету](/ua-budget/expenses.md)
-
-## [Статистика вакансій в Україні](https://uadata.net/work-positions)
-Оновлено **2022-06-24**
-
-- [Кількість вакансій по містах](/work-positions/cities.md)
-- [Кількість вакансій по професіях](/work-positions/positions.md)
-- [Середня зарплатня вакансій](/work-positions/sallaries.md)
-- [Частка віддалених вакансій](/work-positions/remote.md)
-
-## [ІТ та розробка софту в Україні](https://uadata.net/it-industry)
-Оновлено **2022-06-24**
-
-- [Вакансії ІТ фахівців](/it-industry/programming-languages.md)
-
-## [Приватні послуги в Україні](https://uadata.net/business-services)
-Оновлено **2022-06-24**
-
-- [Оголошення про послуги](/business-services/services.md)
+- [Витрати бюджету](/budget.data.md): 350150900000
