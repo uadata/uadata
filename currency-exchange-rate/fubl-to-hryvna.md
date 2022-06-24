@@ -1,6 +1,7 @@
 # [Курс рубля](https://uadata.net/currency-exchange-rate/fubl-to-hryvna)
 | Дата | Значення | Джерело |
 |---|---|---|
+| 2022-06-24 | 0.54242 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-23 | 0.55023 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-22 | 0.53894 | https://bank.gov.ua/ua/markets/exchangerates |
 | 2022-06-21 | 0.52761 | https://bank.gov.ua/ua/markets/exchangerates |
@@ -6654,7 +6655,7 @@ curl https://uadata.net/currency-exchange-rate/fubl-to-hryvna.json
     "ref_url": "https:\/\/bank.gov.ua\/ua\/markets\/exchangerates",
     "data": [
         {
-            "date": "2022-06-23",
+            "date": "2022-06-24",
             "val": 0,
          ...
 ```
