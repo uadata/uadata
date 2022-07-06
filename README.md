@@ -2,19 +2,19 @@
 Відкритий хаб даних про Україну для українців @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2022-07-05**
+Оновлено **2022-07-06**
 
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 3772
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 3789
 - [Літаки](https://uadata.net/vtraty-rf:planes.data): 217
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1594
-- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): 806
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1600
+- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): 812
 - [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): 247
-- [ППО](https://uadata.net/vtraty-rf:ppo.data): 105
+- [ППО](https://uadata.net/vtraty-rf:ppo.data): 107
 - [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): 187
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2634
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2648
 - [Кораблі](https://uadata.net/vtraty-rf:ships.data): 15
-- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): 660
-- [Особовий склад](https://uadata.net/vtraty-rf.data): 36350
+- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): 664
+- [Особовий склад](https://uadata.net/vtraty-rf.data): 36500
 
 ## [Воєнні злочини під час війни Росії проти України](https://uadata.net/zlochiny-rf.data)
 Оновлено **2022-06-03**
@@ -39,27 +39,27 @@
 - [Вакциновані бустерною дозою](https://uadata.net/corona:persons-with-booster.data): 741197
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2022-07-05**
+Оновлено **2022-07-06**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): 29.2549
-- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 30.5816
-- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.52386
+- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 30.1135
+- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.47937
 
 ## [Ринок праці](https://uadata.net/rynok-praci.data)
-Оновлено **2022-07-05**
+Оновлено **2022-07-06**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 33352
-- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 33352
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 34500
+- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 34500
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
-Оновлено **2022-07-05**
+Оновлено **2022-07-06**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 14585
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 14777
 
 ## [Статистика по ринку послуг в Україні](https://uadata.net/poslugy.data)
-Оновлено **2022-07-05**
+Оновлено **2022-07-06**
 
-- [Оголошення про послуги](https://uadata.net/poslugy.data): 2723995
+- [Оголошення про послуги](https://uadata.net/poslugy.data): 2725012
 
 ## [Інформація про бюджет України](https://uadata.net/budget.data)
 Оновлено **2021-12-31**
