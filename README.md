@@ -2,25 +2,25 @@
 Відкритий хаб даних про Україну для українців @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 3828
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 3829
 - [Літаки](https://uadata.net/vtraty-rf:planes.data): 217
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1645
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1649
 - [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): 838
 - [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): 247
 - [ППО](https://uadata.net/vtraty-rf:ppo.data): 109
 - [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): 188
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2696
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2699
 - [Кораблі](https://uadata.net/vtraty-rf:ships.data): 15
 - [БПЛА](https://uadata.net/vtraty-rf:bpla.data): 676
-- [Особовий склад](https://uadata.net/vtraty-rf.data): 37400
+- [Особовий склад](https://uadata.net/vtraty-rf.data): 37470
 
 ## [Воєнні злочини під час війни Росії проти України](https://uadata.net/zlochiny-rf.data)
-Оновлено **2022-07-10**
+Оновлено **2022-07-12**
 
-- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): 347
-- [Зареєстровані злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): 22504
+- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): 348
+- [Зареєстровані злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): 22749
 
 ## [Втрати СССР в Афганській війні](https://uadata.net/vtraty-su-in-afgan.data)
 Оновлено **1989-01-01**
@@ -39,27 +39,27 @@
 - [Вакциновані бустерною дозою](https://uadata.net/corona:persons-with-booster.data): 741197
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): 29.2549
-- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 29.701
-- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.46707
+- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 29.5109
+- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.47122
 
 ## [Ринок праці](https://uadata.net/rynok-praci.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 34738
-- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 34738
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 34828
+- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 34828
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 13709
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 14303
 
 ## [Статистика по ринку послуг в Україні](https://uadata.net/poslugy.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Оголошення про послуги](https://uadata.net/poslugy.data): 2728649
+- [Оголошення про послуги](https://uadata.net/poslugy.data): 2729387
 
 ## [Інформація про бюджет України](https://uadata.net/budget.data)
 Оновлено **2021-12-31**
@@ -67,13 +67,13 @@
 - [Витрати бюджету](https://uadata.net/budget.data): 350150900000
 
 ## [Статистика продажу авто в Україні](https://uadata.net/automobiles.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): 101487
-- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): 132862
+- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): 102155
+- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): 133521
 
 ## [Статистика репетиторів в Україні](https://uadata.net/tutors.data)
-Оновлено **2022-07-11**
+Оновлено **2022-07-12**
 
-- [Кількість репетиторів по містах](https://uadata.net/tutors.data): 49212
-- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): 49212
+- [Кількість репетиторів по містах](https://uadata.net/tutors.data): 49229
+- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): 49229
