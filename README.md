@@ -90,6 +90,8 @@
 - [Відвідування засідань](https://uadata.net/rada-deputats.data): 93
 - [Голосування](https://uadata.net/rada-deputats:deputy-votes.data): 78
 
-## [Скільки атомних електростанцій в Україні](https://uadata.net/skilki-yadenih-stanciy.data)
+## [Статистика розглядання законів Верховною Радою України](https://uadata.net/rada-laws.data)
+Оновлено **2022-01-01**
 
-## [Скільки електростанцій в Україні](https://uadata.net/skilki-electro-stanciy.data)
+- [Розглянуті та прийняті закони](https://uadata.net/rada-laws.data): 2
+- [Прийняті закони по категоріям](https://uadata.net/rada-laws:laws-by-cat.data): 1046
