@@ -95,3 +95,13 @@
 
 - [Розглянуті та прийняті закони](https://uadata.net/rada-laws.data): 2
 - [Прийняті закони по категоріям](https://uadata.net/rada-laws:laws-by-cat.data): 1046
+
+# Швидкі показники
+- [Скільки атомних електростанцій в Україні](https://uadata.net/skilki-yadenih-stanciy.data)
+- [Скільки електростанцій в Україні](https://uadata.net/skilki-electro-stanciy.data)
+- [Скільки днів до літа 2023 року](https://uadata.net/skilki-dniv-do-lita.data)
+- [Скільки днів до осені 2022 року](https://uadata.net/skilki-dniv-do-oseni.data)
+- [Скільки днів до 1 вересня 2022 року](https://uadata.net/skilki-dniv-do-1-veresnya.data)
+- [Скільки днів до кінця літа 2022 року](https://uadata.net/skilki-dniv-do-kinca-lita.data)
+- [Скільки днів до зими 2022 року](https://uadata.net/skilki-dniv-do-zymy.data)
+- [Скільки днів до Нового Року (2023)](https://uadata.net/skilki-dniv-do-novoho-roku.data)
