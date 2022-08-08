@@ -2,25 +2,25 @@
 Відкритий хаб даних про Україну для українців @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 4055
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): 4070
 - [Літаки](https://uadata.net/vtraty-rf:planes.data): 223
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1805
-- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): 958
-- [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): 260
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): 1811
+- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): 960
+- [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): 261
 - [ППО](https://uadata.net/vtraty-rf:ppo.data): 132
-- [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): 191
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2978
+- [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): 192
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): 2993
 - [Кораблі](https://uadata.net/vtraty-rf:ships.data): 15
-- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): 750
-- [Особовий склад](https://uadata.net/vtraty-rf.data): 42200
+- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): 754
+- [Особовий склад](https://uadata.net/vtraty-rf.data): 42340
 
 ## [Воєнні злочини під час війни Росії проти України](https://uadata.net/zlochiny-rf.data)
-Оновлено **2022-08-06**
+Оновлено **2022-08-07**
 
 - [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): 361
-- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): 27095
+- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): 27203
 
 ## [Втрати СССР в Афганській війні](https://uadata.net/vtraty-su-in-afgan.data)
 Оновлено **1989-01-01**
@@ -39,27 +39,27 @@
 - [Вакциновані бустерною дозою](https://uadata.net/corona:persons-with-booster.data): 741197
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): 36.5686
-- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 37.2104
-- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.60244
+- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): 37.417
+- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): 0.60026
 
 ## [Статистика вакансій в Україні](https://uadata.net/rynok-praci.data)
 Оновлено **2022-08-07**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 30106
-- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 30106
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): 30033
+- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): 30033
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 13434
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): 13059
 
 ## [Статистика по ринку послуг в Україні](https://uadata.net/poslugy.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Оголошення про послуги](https://uadata.net/poslugy.data): 2773439
+- [Оголошення про послуги](https://uadata.net/poslugy.data): 2773716
 
 ## [Інформація про бюджет України](https://uadata.net/budget.data)
 Оновлено **2021-12-31**
@@ -67,22 +67,22 @@
 - [Витрати бюджету](https://uadata.net/budget.data): 350150900000
 
 ## [Статистика продажу авто в Україні](https://uadata.net/automobiles.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): 121128
-- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): 156911
+- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): 121179
+- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): 157126
 
 ## [Статистика репетиторів в Україні](https://uadata.net/tutors.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Кількість репетиторів по містах](https://uadata.net/tutors.data): 49975
-- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): 49975
+- [Кількість репетиторів по містах](https://uadata.net/tutors.data): 49982
+- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): 49982
 
 ## [Статистика оренди та продажу квартир в Україні](https://uadata.net/flats.data)
-Оновлено **2022-08-07**
+Оновлено **2022-08-08**
 
-- [Оренда квартир](https://uadata.net/flats.data): 78335
-- [Продаж квартир](https://uadata.net/flats:sell-flat.data): 145850
+- [Оренда квартир](https://uadata.net/flats.data): 74629
+- [Продаж квартир](https://uadata.net/flats:sell-flat.data): 141676
 
 ## [Статистика роботи депутатів в Верховній Раді Україні](https://uadata.net/rada-deputats.data)
 Оновлено **2022-01-01**
