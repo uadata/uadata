@@ -2,25 +2,25 @@
 Відкритий Український хаб даних з доступом по Web та API @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **4195** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **4212** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
 - [Літаки](https://uadata.net/vtraty-rf:planes.data): **234** [CSV](/vtraty-rf/planes.csv)  [API](https://uadata.net/api?e=2) 
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): **1899** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
-- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **1016** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): **1907** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
+- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **1018** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
 - [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): **266** [CSV](/vtraty-rf/rszv.csv)  [API](https://uadata.net/api?e=5) 
 - [ППО](https://uadata.net/vtraty-rf:ppo.data): **141** [CSV](/vtraty-rf/ppo.csv)  [API](https://uadata.net/api?e=6) 
 - [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): **197** [CSV](/vtraty-rf/helicopters.csv)  [API](https://uadata.net/api?e=7) 
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **3130** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **3137** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
 - [Кораблі](https://uadata.net/vtraty-rf:ships.data): **15** [CSV](/vtraty-rf/ships.csv)  [API](https://uadata.net/api?e=9) 
-- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **795** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
-- [Особовий склад](https://uadata.net/vtraty-rf.data): **44700** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
+- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **803** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
+- [Особовий склад](https://uadata.net/vtraty-rf.data): **44900** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Воєнні злочини під час війни Росії проти України](https://uadata.net/zlochiny-rf.data)
-Оновлено **2022-08-18**
+Оновлено **2022-08-19**
 
-- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): **361** [CSV](/zlochiny-rf.csv)  [API](https://uadata.net/api?e=13) 
-- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): **28991** [CSV](/zlochiny-rf/registered-crimes.csv)  [API](https://uadata.net/api?e=14) 
+- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): **362** [CSV](/zlochiny-rf.csv)  [API](https://uadata.net/api?e=13) 
+- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): **29184** [CSV](/zlochiny-rf/registered-crimes.csv)  [API](https://uadata.net/api?e=14) 
 
 ## [Втрати СССР в Афганській війні](https://uadata.net/vtraty-su-in-afgan.data)
 Оновлено **1989-01-01**
@@ -32,34 +32,34 @@
 ## [Статистика короновірусу Covid в Україні](https://uadata.net/corona.data)
 Оновлено **2022-02-27**
 
-- [Випадки захворювань](https://uadata.net/corona.data): **5030389** [CSV](/corona.csv)  [API](https://uadata.net/api?e=22) 
-- [Летальні випадки](https://uadata.net/corona:totla-deaths.data): **108743** [CSV](/corona/totla-deaths.csv)  [API](https://uadata.net/api?e=23) 
+- [Випадки захворювань](https://uadata.net/corona.data): **5035828** [CSV](/corona.csv)  [API](https://uadata.net/api?e=22) 
+- [Летальні випадки](https://uadata.net/corona:totla-deaths.data): **108780** [CSV](/corona/totla-deaths.csv)  [API](https://uadata.net/api?e=23) 
 - [Частково вакциновані](https://uadata.net/corona:persons-vaccinated.data): **15774300** [CSV](/corona/persons-vaccinated.csv)  [API](https://uadata.net/api?e=24) 
 - [Повністю вакциновані](https://uadata.net/corona:persons-fully-vaccinated.data): **15153577** [CSV](/corona/persons-fully-vaccinated.csv)  [API](https://uadata.net/api?e=25) 
 - [Вакциновані бустерною дозою](https://uadata.net/corona:persons-with-booster.data): **741197** [CSV](/corona/persons-with-booster.csv)  [API](https://uadata.net/api?e=26) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **36.5686** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
 - [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **37.2177** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
 - [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.61239** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
 
 ## [Статистика вакансій в Україні](https://uadata.net/rynok-praci.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **32493** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
-- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): **32493** [CSV](/rynok-praci/positions.csv)  [API](https://uadata.net/api?e=36) 
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **32877** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
+- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): **32877** [CSV](/rynok-praci/positions.csv)  [API](https://uadata.net/api?e=36) 
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **13510** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **13526** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
 
 ## [Статистика по ринку послуг в Україні](https://uadata.net/poslugy.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Оголошення про послуги](https://uadata.net/poslugy.data): **2781390** [CSV](/poslugy.csv)  [API](https://uadata.net/api?e=40) 
+- [Оголошення про послуги](https://uadata.net/poslugy.data): **2781313** [CSV](/poslugy.csv)  [API](https://uadata.net/api?e=40) 
 
 ## [Інформація про бюджет України](https://uadata.net/budget.data)
 Оновлено **2021-12-31**
@@ -67,22 +67,22 @@
 - [Витрати бюджету](https://uadata.net/budget.data): **350150900000** [CSV](/budget.csv)  [API](https://uadata.net/api?e=34) 
 
 ## [Статистика продажу авто в Україні](https://uadata.net/automobiles.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): **120830** [CSV](/automobiles.csv)  [API](https://uadata.net/api?e=41) 
-- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): **156638** [CSV](/automobiles/auto-prices.csv)  [API](https://uadata.net/api?e=42) 
+- [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): **120714** [CSV](/automobiles.csv)  [API](https://uadata.net/api?e=41) 
+- [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): **156476** [CSV](/automobiles/auto-prices.csv)  [API](https://uadata.net/api?e=42) 
 
 ## [Статистика репетиторів в Україні](https://uadata.net/tutors.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Кількість репетиторів по містах](https://uadata.net/tutors.data): **50339** [CSV](/tutors.csv)  [API](https://uadata.net/api?e=43) 
-- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): **50339** [CSV](/tutors/tutor-subjects.csv)  [API](https://uadata.net/api?e=44) 
+- [Кількість репетиторів по містах](https://uadata.net/tutors.data): **50367** [CSV](/tutors.csv)  [API](https://uadata.net/api?e=43) 
+- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): **50367** [CSV](/tutors/tutor-subjects.csv)  [API](https://uadata.net/api?e=44) 
 
 ## [Статистика оренди та продажу квартир в Україні](https://uadata.net/flats.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Оренда квартир](https://uadata.net/flats.data): **62357** [CSV](/flats.csv)  [API](https://uadata.net/api?e=45) 
-- [Продаж квартир](https://uadata.net/flats:sell-flat.data): **147044** [CSV](/flats/sell-flat.csv)  [API](https://uadata.net/api?e=46) 
+- [Оренда квартир](https://uadata.net/flats.data): **74991** [CSV](/flats.csv)  [API](https://uadata.net/api?e=45) 
+- [Продаж квартир](https://uadata.net/flats:sell-flat.data): **147078** [CSV](/flats/sell-flat.csv)  [API](https://uadata.net/api?e=46) 
 
 ## [Статистика роботи депутатів в Верховній Раді Україні](https://uadata.net/rada-deputats.data)
 Оновлено **2022-01-01**
@@ -97,16 +97,16 @@
 - [Прийняті закони по категоріям](https://uadata.net/rada-laws:laws-by-cat.data): **1124** [CSV](/rada-laws/laws-by-cat.csv)  [API](https://uadata.net/api?e=50) 
 
 ## [Статистика цін на продукти харчування в Україні](https://uadata.net/ciny-na-producty.data)
-Оновлено **2022-08-19**
+Оновлено **2022-08-20**
 
-- [Вітрина цін на молоко](https://uadata.net/ciny-na-producty:meals-milk-price.data): **37.84** [CSV](/ciny-na-producty/meals-milk-price.csv)  [API](https://uadata.net/api?e=51) 
-- [Вітрина цін на хліб](https://uadata.net/ciny-na-producty.data): **19.57** [CSV](/ciny-na-producty.csv)  [API](https://uadata.net/api?e=52) 
-- [Вітрина цін на яйця](https://uadata.net/ciny-na-producty:meals-price-eggs.data): **35.66** [CSV](/ciny-na-producty/meals-price-eggs.csv)  [API](https://uadata.net/api?e=53) 
-- [Вітрина цін на шоколад](https://uadata.net/ciny-na-producty:meals-price-chocolate.data): **46.69** [CSV](/ciny-na-producty/meals-price-chocolate.csv)  [API](https://uadata.net/api?e=54) 
-- [Вітрина цін на крупи](https://uadata.net/ciny-na-producty:meals-price-cereals.data): **43.77** [CSV](/ciny-na-producty/meals-price-cereals.csv)  [API](https://uadata.net/api?e=55) 
+- [Вітрина цін на молоко](https://uadata.net/ciny-na-producty:meals-milk-price.data): **37.75** [CSV](/ciny-na-producty/meals-milk-price.csv)  [API](https://uadata.net/api?e=51) 
+- [Вітрина цін на хліб](https://uadata.net/ciny-na-producty.data): **19.5** [CSV](/ciny-na-producty.csv)  [API](https://uadata.net/api?e=52) 
+- [Вітрина цін на яйця](https://uadata.net/ciny-na-producty:meals-price-eggs.data): **35.95** [CSV](/ciny-na-producty/meals-price-eggs.csv)  [API](https://uadata.net/api?e=53) 
+- [Вітрина цін на шоколад](https://uadata.net/ciny-na-producty:meals-price-chocolate.data): **46.79** [CSV](/ciny-na-producty/meals-price-chocolate.csv)  [API](https://uadata.net/api?e=54) 
+- [Вітрина цін на крупи](https://uadata.net/ciny-na-producty:meals-price-cereals.data): **43.67** [CSV](/ciny-na-producty/meals-price-cereals.csv)  [API](https://uadata.net/api?e=55) 
 - [Вітрина цін на ковбасу](https://uadata.net/ciny-na-producty:meals-price-kolbasa.data): **108.47** [CSV](/ciny-na-producty/meals-price-kolbasa.csv)  [API](https://uadata.net/api?e=56) 
 - [Вітрина цін на сигарети](https://uadata.net/ciny-na-producty:meals-price-cigarety.data): **67.73** [CSV](/ciny-na-producty/meals-price-cigarety.csv)  [API](https://uadata.net/api?e=57) 
-- [Вітрина цін на вино](https://uadata.net/ciny-na-producty:meals-price-vino.data): **84.37** [CSV](/ciny-na-producty/meals-price-vino.csv)  [API](https://uadata.net/api?e=58) 
+- [Вітрина цін на вино](https://uadata.net/ciny-na-producty:meals-price-vino.data): **82.81** [CSV](/ciny-na-producty/meals-price-vino.csv)  [API](https://uadata.net/api?e=58) 
 
 # Швидкі показники
 - [Скільки атомних електростанцій в Україні](https://uadata.net/skilki-yadenih-stanciy.data)
