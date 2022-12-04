@@ -17,10 +17,10 @@
 - [Особовий склад](https://uadata.net/vtraty-rf.data): **90600** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Воєнні злочини під час війни росії проти України](https://uadata.net/zlochiny-rf.data)
-Оновлено **2022-12-02**
+Оновлено **2022-12-03**
 
-- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): **441** [CSV](/zlochiny-rf.csv)  [API](https://uadata.net/api?e=13) 
-- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): **50692** [CSV](/zlochiny-rf/registered-crimes.csv)  [API](https://uadata.net/api?e=14) 
+- [Скільки дітей загинуло](https://uadata.net/zlochiny-rf.data): **443** [CSV](/zlochiny-rf.csv)  [API](https://uadata.net/api?e=13) 
+- [Воєнні злочини РФ](https://uadata.net/zlochiny-rf:registered-crimes.data): **50970** [CSV](/zlochiny-rf/registered-crimes.csv)  [API](https://uadata.net/api?e=14) 
 
 ## [Втрати СССР в Афганській війні](https://uadata.net/vtraty-su-in-afgan.data)
 Оновлено **1989-01-01**
@@ -39,27 +39,27 @@
 - [Вакциновані бустерною дозою](https://uadata.net/corona:persons-with-booster.data): **741197** [CSV](/corona/persons-with-booster.csv)  [API](https://uadata.net/api?e=26) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **36.5686** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
 - [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **38.205** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
 - [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.59687** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
 
 ## [Статистика вакансій в Україні](https://uadata.net/rynok-praci.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **21596** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
-- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): **21596** [CSV](/rynok-praci/positions.csv)  [API](https://uadata.net/api?e=36) 
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **21377** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
+- [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): **21377** [CSV](/rynok-praci/positions.csv)  [API](https://uadata.net/api?e=36) 
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **11450** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **11494** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
 
 ## [Статистика по ринку послуг в Україні](https://uadata.net/poslugy.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
-- [Оголошення про послуги](https://uadata.net/poslugy.data): **2850882** [CSV](/poslugy.csv)  [API](https://uadata.net/api?e=40) 
+- [Оголошення про послуги](https://uadata.net/poslugy.data): **2851361** [CSV](/poslugy.csv)  [API](https://uadata.net/api?e=40) 
 
 ## [Інформація про бюджет України](https://uadata.net/budget.data)
 Оновлено **2021-12-31**
@@ -67,19 +67,19 @@
 - [Витрати бюджету](https://uadata.net/budget.data): **350150900000** [CSV](/budget.csv)  [API](https://uadata.net/api?e=34) 
 
 ## [Статистика продажу авто в Україні](https://uadata.net/automobiles.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
 - [Продаж авто за типом двигуна](https://uadata.net/automobiles.data): **136965** [CSV](/automobiles.csv)  [API](https://uadata.net/api?e=41) 
 - [Продаж авто за діапазоном цін](https://uadata.net/automobiles:auto-prices.data): **175518** [CSV](/automobiles/auto-prices.csv)  [API](https://uadata.net/api?e=42) 
 
 ## [Статистика репетиторів в Україні](https://uadata.net/tutors.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
-- [Кількість репетиторів по містах](https://uadata.net/tutors.data): **51351** [CSV](/tutors.csv)  [API](https://uadata.net/api?e=43) 
-- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): **51351** [CSV](/tutors/tutor-subjects.csv)  [API](https://uadata.net/api?e=44) 
+- [Кількість репетиторів по містах](https://uadata.net/tutors.data): **51348** [CSV](/tutors.csv)  [API](https://uadata.net/api?e=43) 
+- [Кількість репетиторів по предметах](https://uadata.net/tutors:tutor-subjects.data): **51348** [CSV](/tutors/tutor-subjects.csv)  [API](https://uadata.net/api?e=44) 
 
 ## [Статистика оренди та продажу квартир в Україні](https://uadata.net/flats.data)
-Оновлено **2022-12-03**
+Оновлено **2022-12-04**
 
 - [Оренда квартир](https://uadata.net/flats.data): **33716** [CSV](/flats.csv)  [API](https://uadata.net/api?e=45) 
 - [Продаж квартир](https://uadata.net/flats:sell-flat.data): **175445** [CSV](/flats/sell-flat.csv)  [API](https://uadata.net/api?e=46) 
@@ -99,7 +99,7 @@
 ## [Статистика цін на продукти харчування в Україні](https://uadata.net/ciny-na-producty.data)
 Оновлено **2022-12-02**
 
-- [Вітрина цін на молоко](https://uadata.net/ciny-na-producty:meals-milk-price.data): **41.61** [CSV](/ciny-na-producty/meals-milk-price.csv)  [API](https://uadata.net/api?e=51) 
+- [Вітрина цін на молоко](https://uadata.net/ciny-na-producty:meals-milk-price.data): **40.25** [CSV](/ciny-na-producty/meals-milk-price.csv)  [API](https://uadata.net/api?e=51) 
 - [Вітрина цін на хліб](https://uadata.net/ciny-na-producty.data): **20.29** [CSV](/ciny-na-producty.csv)  [API](https://uadata.net/api?e=52) 
 - [Вітрина цін на яйця](https://uadata.net/ciny-na-producty:meals-price-eggs.data): **70.14** [CSV](/ciny-na-producty/meals-price-eggs.csv)  [API](https://uadata.net/api?e=53) 
 - [Вітрина цін на шоколад](https://uadata.net/ciny-na-producty:meals-price-chocolate.data): **42.25** [CSV](/ciny-na-producty/meals-price-chocolate.csv)  [API](https://uadata.net/api?e=54) 
