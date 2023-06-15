@@ -2,37 +2,37 @@
 Відкритий Український хаб даних з доступом по Web та API @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2023-06-12**
-
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **7636** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
-- [Літаки](https://uadata.net/vtraty-rf:planes.data): **314** [CSV](/vtraty-rf/planes.csv)  [API](https://uadata.net/api?e=2) 
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): **3931** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
-- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **3746** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
-- [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): **601** [CSV](/vtraty-rf/rszv.csv)  [API](https://uadata.net/api?e=5) 
-- [ППО](https://uadata.net/vtraty-rf:ppo.data): **362** [CSV](/vtraty-rf/ppo.csv)  [API](https://uadata.net/api?e=6) 
-- [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): **299** [CSV](/vtraty-rf/helicopters.csv)  [API](https://uadata.net/api?e=7) 
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **6471** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
-- [Кораблі](https://uadata.net/vtraty-rf:ships.data): **18** [CSV](/vtraty-rf/ships.csv)  [API](https://uadata.net/api?e=9) 
-- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **3307** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
-- [Особовий склад](https://uadata.net/vtraty-rf.data): **216180** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
-
-## [Курс гривні](https://uadata.net/kurs-hryvni.data)
 Оновлено **2023-06-14**
 
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **7653** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
+- [Літаки](https://uadata.net/vtraty-rf:planes.data): **314** [CSV](/vtraty-rf/planes.csv)  [API](https://uadata.net/api?e=2) 
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): **3943** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
+- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **3783** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
+- [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): **603** [CSV](/vtraty-rf/rszv.csv)  [API](https://uadata.net/api?e=5) 
+- [ППО](https://uadata.net/vtraty-rf:ppo.data): **364** [CSV](/vtraty-rf/ppo.csv)  [API](https://uadata.net/api?e=6) 
+- [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): **300** [CSV](/vtraty-rf/helicopters.csv)  [API](https://uadata.net/api?e=7) 
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **6482** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
+- [Кораблі](https://uadata.net/vtraty-rf:ships.data): **18** [CSV](/vtraty-rf/ships.csv)  [API](https://uadata.net/api?e=9) 
+- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **3324** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
+- [Особовий склад](https://uadata.net/vtraty-rf.data): **217330** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
+
+## [Курс гривні](https://uadata.net/kurs-hryvni.data)
+Оновлено **2023-06-15**
+
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **36.5686** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
-- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **39.4721** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
-- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.43628** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
+- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **39.5069** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
+- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.4341** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
 
 ## [Статистика вакансій в Україні](https://uadata.net/rynok-praci.data)
 Оновлено **2023-06-14**
 
-- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **29582** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
+- [Кількість вакансій по містах](https://uadata.net/rynok-praci.data): **29099** [CSV](/rynok-praci.csv)  [API](https://uadata.net/api?e=35) 
 - [Кількість вакансій по професіях](https://uadata.net/rynok-praci:positions.data): **29582** [CSV](/rynok-praci/positions.csv)  [API](https://uadata.net/api?e=36) 
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
 Оновлено **2023-06-14**
 
-- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **9551** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
+- [Мови програмування по вакансіях](https://uadata.net/rozrobka-softu.data): **9866** [CSV](/rozrobka-softu.csv)  [API](https://uadata.net/api?e=39) 
 
 ## [Статистика продажу авто в Україні](https://uadata.net/automobiles.data)
 Оновлено **2023-06-14**
