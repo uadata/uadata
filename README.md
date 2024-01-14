@@ -2,22 +2,22 @@
 Відкритий Український хаб даних з доступом по Web та API @ [uadata.net](https://uadata.net/)
 
 ## [Втрати армії рф в гарячій фазі війни](https://uadata.net/vtraty-rf.data)
-Оновлено **2024-01-12**
+Оновлено **2024-01-13**
 
-- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **11254** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
+- [Бойові машини](https://uadata.net/vtraty-rf:bbm.data): **11269** [CSV](/vtraty-rf/bbm.csv)  [API](https://uadata.net/api?e=1) 
 - [Літаки](https://uadata.net/vtraty-rf:planes.data): **329** [CSV](/vtraty-rf/planes.csv)  [API](https://uadata.net/api?e=2) 
-- [Танки](https://uadata.net/vtraty-rf:tanks.data): **6060** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
-- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **8710** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
+- [Танки](https://uadata.net/vtraty-rf:tanks.data): **6065** [CSV](/vtraty-rf/tanks.csv)  [API](https://uadata.net/api?e=3) 
+- [Артилерійські системи](https://uadata.net/vtraty-rf:artilery.data): **8728** [CSV](/vtraty-rf/artilery.csv)  [API](https://uadata.net/api?e=4) 
 - [РСЗВ](https://uadata.net/vtraty-rf:rszv.data): **957** [CSV](/vtraty-rf/rszv.csv)  [API](https://uadata.net/api?e=5) 
-- [ППО](https://uadata.net/vtraty-rf:ppo.data): **642** [CSV](/vtraty-rf/ppo.csv)  [API](https://uadata.net/api?e=6) 
+- [ППО](https://uadata.net/vtraty-rf:ppo.data): **646** [CSV](/vtraty-rf/ppo.csv)  [API](https://uadata.net/api?e=6) 
 - [Гелікоптери](https://uadata.net/vtraty-rf:helicopters.data): **324** [CSV](/vtraty-rf/helicopters.csv)  [API](https://uadata.net/api?e=7) 
-- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **11612** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
+- [Автомобільна техніка](https://uadata.net/vtraty-rf:auto.data): **11632** [CSV](/vtraty-rf/auto.csv)  [API](https://uadata.net/api?e=8) 
 - [Кораблі](https://uadata.net/vtraty-rf:ships.data): **23** [CSV](/vtraty-rf/ships.csv)  [API](https://uadata.net/api?e=9) 
-- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **6836** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
-- [Особовий склад](https://uadata.net/vtraty-rf.data): **368460** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
+- [БПЛА](https://uadata.net/vtraty-rf:bpla.data): **6848** [CSV](/vtraty-rf/bpla.csv)  [API](https://uadata.net/api?e=11) 
+- [Особовий склад](https://uadata.net/vtraty-rf.data): **369160** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2024-01-13**
+Оновлено **2024-01-14**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **37.9982** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
 - [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **41.741** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
