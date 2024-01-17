@@ -17,11 +17,11 @@
 - [Особовий склад](https://uadata.net/vtraty-rf.data): **372090** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2024-01-16**
+Оновлено **2024-01-17**
 
-- [Курс долара](https://uadata.net/kurs-hryvni.data): **37.8641** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
-- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **41.4763** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
-- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.43125** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
+- [Курс долара](https://uadata.net/kurs-hryvni.data): **37.9247** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
+- [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **41.2848** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
+- [Курс рубля](https://uadata.net/kurs-hryvni:fubl-to-hryvna.data): **0.4306** [CSV](/kurs-hryvni/fubl-to-hryvna.csv)  [API](https://uadata.net/api?e=33) 
 
 ## [Статистика по ІТ спеціалістам в Україні](https://uadata.net/rozrobka-softu.data)
 Оновлено **2024-01-02**
