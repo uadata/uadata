@@ -17,7 +17,7 @@
 - [Особовий склад](https://uadata.net/vtraty-rf.data): **374520** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2024-01-19**
+Оновлено **2024-01-20**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **37.7094** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
 - [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **41.0146** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
@@ -43,7 +43,7 @@
 ## [Ціни на нафту](https://uadata.net/ciny-na-naftu.data)
 Оновлено **2024-01-19**
 
-- [Ціни на нафту BRENT](https://uadata.net/ciny-na-naftu.data): **78.9655** [CSV](/ciny-na-naftu.csv)  [API](https://uadata.net/api?e=59) 
+- [Ціни на нафту BRENT](https://uadata.net/ciny-na-naftu.data): **78.8** [CSV](/ciny-na-naftu.csv)  [API](https://uadata.net/api?e=59) 
 
 # Швидкі показники
 - [Скільки атомних електростанцій в Україні](https://uadata.net/skilki-yadenih-stanciy.data)
