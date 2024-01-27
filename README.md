@@ -17,7 +17,7 @@
 - [Особовий склад](https://uadata.net/vtraty-rf.data): **379610** [CSV](/vtraty-rf.csv)  [API](https://uadata.net/api?e=12) 
 
 ## [Курс гривні](https://uadata.net/kurs-hryvni.data)
-Оновлено **2024-01-26**
+Оновлено **2024-01-27**
 
 - [Курс долара](https://uadata.net/kurs-hryvni.data): **37.5825** [CSV](/kurs-hryvni.csv)  [API](https://uadata.net/api?e=31) 
 - [Курс євро](https://uadata.net/kurs-hryvni:euro-to-hryvna.data): **40.9161** [CSV](/kurs-hryvni/euro-to-hryvna.csv)  [API](https://uadata.net/api?e=32) 
